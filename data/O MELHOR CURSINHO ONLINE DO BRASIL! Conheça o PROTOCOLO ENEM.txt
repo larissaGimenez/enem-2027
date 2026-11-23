@@ -1,0 +1,381 @@
+Capítulo 1: Introdução
+0:000 segundoFala galera, Marcos Vasconcelos aqui e nesse vídeo eu vim fazer um tour com vocês por dentro da plataforma do protocolo Enem, mostrar todas as nossas
+0:088 segundosfuncionalidades, como que funciona por dentro da plataforma, o que que você tem acesso ao assinar o protocolo e você vê
+0:1616 segundospor dentro realmente a qualidade do que a gente entrega. A nossa nova plataforma tá super tecnológica e eu tenho certeza
+0:2323 segundosque um monte de coisa que você vai ver aqui não existe em nenhum outro lugar do Brasil. Depois que eu gravar esse vídeo, depois que eu postar, um monte de
+0:3131 segundosplataforma vai ver e vai começar a copiar as nossas funcionalidades. Mas vocês sabem onde que vocês estão vendo isso pela primeira vez. Então fiquem
+0:3939 segundosligados quando o pessoal começar a copiar as nossas funções da nova plataforma do protocolo Enem. Galera, antes da gente ir para para eu mostrar a
+Capítulo 2: Resultados dos alunos no ENEM 2026
+0:4747 segundosplataforma realmente para vocês, eu quero mostrar alguns dos nossos resultados aí no último Enem, no Enem de 2026. O Murilo fez 171 acertos das 180
+0:5656 segundosquestões, praticamente gabaritou a prova, 95% de acertos nesse Enem que foi extremamente difícil. Imagina fazer 171
+1:041 minuto e 4 segundosacertos das 180 questões. Pois é, o Murilo fez e ele estudou com a gente no último ano para conseguir esse resultado. Além disso, a gente tem
+1:121 minuto e 12 segundostambém aqui outros alunos. A Alice fez 166 acertos das 180 questões, fez aí 43 em natureza, 39 em matemática. O segundo
+1:201 minuto e 20 segundosdia tava super difícil e mesmo assim os nossos alunos se superaram e conseguiram um auto desempenho na prova. O Vittor fez 164 acertos, né? 43 em natureza, 41
+1:301 minuto e 30 segundosem matemática, por força máxima ali, o resultado de altíssimo nível. O Miguel, direto do ensino médio público, tá?
+1:371 minuto e 37 segundosDireto da escola, direto do ensino médio público, ele conseguiu aí 161 acertos das 180 questões na prova do Enem com 82
+1:461 minuto e 46 segundosno segundo dia, 40 em natureza e 42 em matemática. É isso que a gente entrega pros alunos, ensino de alto nível para que o aluno consiga aí vaga nas melhores
+1:541 minuto e 54 segundosuniversidades do Brasil e tenha aprofundamento para enfrentar até mesmo uma prova difícil como foi o Enem de 2026. Então vamos embora que eu vou
+2:032 minutos e 3 segundosmostrar agora por dentro para vocês da plataforma. Esse daqui é o dashboard inicial da plataforma. Então você abre, você vai cair aqui que tem algumas
+Capítulo 3: Dashboard e gamificação
+2:112 minutos e 11 segundosinformações importantes aí sobre o seu desempenho, como que você, como que tá os seus estudos, o seu progresso. A gente decidiu sim. sintetizar as
+2:192 minutos e 19 segundosinformações mais importantes aqui nesse dashboard para você justamente acompanhar a sua evolução. Marcos, dá para mudar esse dashboard? Dá sim. Você
+2:272 minutos e 27 segundospode mudar aqui a aparência dele. Então você pode mudar a cor, pode colocar a cor que você quiser aqui no dashboard, né? E você pode também mudar o tema, né?
+2:352 minutos e 35 segundosSe você gosta de um tema mais escuro pra plataforma, se você gosta do tema claro, né? Dá para você mudar alguns detalhes aqui também. Você pode mudar os blocos,
+2:432 minutos e 43 segundosné? Então tem várias opções aqui. Você tem foco no dia a dia, foco em desempenho, foco no mínimo, né? Só o essencial para começar. Então, se você
+2:512 minutos e 51 segundosnão quer muitos detalhes, dá para você adaptar tudo aqui da sua, do seu dashboard inicial, tá? Se você quiser tirar algum ícone, algum algum detalhe
+2:592 minutos e 59 segundosdo dashboard, ele é totalmente personalizável. Então você deixa da forma como você preferir. Eu vou colocar aqui o verde, que é a cor da plataforma
+3:063 minutos e 6 segundosmesmo, mas você também pode mudar aí o tema de acordo com o que for da sua preferência. E aqui tem algum tem alguns dados interessantes, as questões que
+3:143 minutos e 14 segundosvocê fez na semana, então você consegue ter uma visão muito boa de quantas questões que você tá fazendo semana a semana até a prova. Então chega sábado,
+3:213 minutos e 21 segundosdomingo, você já sabe, pô, hoje, essa semana eu fiz 100, 200 questões pela plataforma, fiz 300, você vai ter aqui os dados e isso é bom para você ter uma
+3:293 minutos e 29 segundosmétrica mais ou menos de como que foi a sua semana, se ela foi produtiva, se você conseguiu fazer mais questões, tem esses dados já prontos para você. O que que é ofensiva? É a quantidade de dias
+3:383 minutos e 38 segundosfocados que você fica. Então, quantidade de dias seguidos que você acessou a plataforma, então, por exemplo, uma ofensiva de 10 dias é que por 10 dias
+3:453 minutos e 45 segundosseguidos você acessou a plataforma e você estudou, você fez questões, você viu videoaulas. Então, vai ter aqui esse recorde justamente para vocês se
+3:523 minutos e 52 segundosmanterem motivados a todos os dias estudar, nem que seja um pouquinho, né?
+3:563 minutos e 56 segundosEntão isso daí também é uma forma para te deixar mais focado na plataforma. Tem aqui a experiência. Então, o que que é esse experiência? Conforme você vai
+4:054 minutos e 5 segundosvendo aula na plataforma, fazendo questão, resolvendo flash card, acessando ali, fazendo simulado, você vai ganhando experiência. Inclusive, a
+4:134 minutos e 13 segundosgente tem aqui essa aba do nível, que é justamente você vai ganhando ganhando essa experiência e você vai subindo de nível, você vai ganhando essas insígnias também tem as moedas que é por questão.
+4:234 minutos e 23 segundosEntão isso daqui é bem bacana para tornar esse estudo o estudo mais dinâmico, então você ficar mais envolvido, você vai ver o nível ali das outras pessoas da plataforma, você vai
+4:314 minutos e 31 segundosfalar: "Pô, quero subir de nível, quero alcançar níveis mais altos e tal". Então é um esquema de gamificação muito interessante para que você se mantenha
+4:384 minutos e 38 segundosmais focado no estudo e se torne algo mais interessante para você também. Aqui tem um tempo de estudo, então quanto tempo que você estudou na semana? Eu tô aqui numa conta teste, então por isso
+4:474 minutos e 47 segundosque tá pouquinho. E sempre vai aparecer aqui a última atividade que você teve na plataforma também. Então eu tava vendo essa aula de competência cinco, né?
+4:544 minutos e 54 segundosEntão competência cinco da matriz de competências e habilidades da prova do Enem na parte de linguagens. Então a plataforma ela traz justamente essa
+5:025 minutos e 2 segundosmetodologia por competência e habilidade que é justamente onde mais traz resultado na prova de linguagem, tá?
+5:075 minutos e 7 segundosEntão isso eu vou falar mais para frente para vocês, mas já aparece aqui também o que você tava vendo antes. Então se você quiser voltar é só clicar aqui em continuar e você já vai direto pra aula
+5:155 minutos e 15 segundosporque você tava estudando, tá? E aqui aparece também as outras atividades.
+5:185 minutos e 18 segundosVocê tava vendo fisiologia humana, então eu tinha acessado o módulo de fisiologia humana, apareceu aqui funções da linguagem, então vai aparecendo de acordo com o seu último acesso. Então é
+5:275 minutos e 27 segundosbom se você quer continuar um estudo, se você saiu rapidinho, quer dar uma pausa, você já entra aqui no dashboard inicial, você já clica continuar e você vai pra
+5:345 minutos e 34 segundosatividade que você tava fazendo, né? E aqui tem o ritmo, né, com o XP que você vai ganhando cada dia da semana, né?
+5:405 minutos e 40 segundosEntão você tem uma noção de qual dia que você rendeu mais, qual dia que você fez mais questões, né? O tempo de estudos também, sabe? Então tudo é metrificado
+5:485 minutos e 48 segundosaqui nessa parte inicial. Tem também uma outra parte mais detalhada de estatísticas, mas é legal que você já acessa na a plataforma, você já já
+5:565 minutos e 56 segundosconsegue saber alguma coisa sobre o seu desempenho, né? Seu desempenho global na semana. Tem aqui seus acertos. Você pode ver o seu acerto por área do conhecimento também, as matérias, como
+6:056 minutos e 5 segundosque tá o seu progresso em cada matéria, sua constância ao longo dos dias, né?
+6:096 minutos e 9 segundosEntão, três dias, recorde, três. E aqui, quanto mais verdinho tiver, né? Quanto mais e escuro tiver, mais você estudou
+6:176 minutos e 17 segundosnaquele dia. Então você tem aí um esquema para você acompanhar também como que tá a sua constância nos estudos.
+6:236 minutos e 23 segundosAqui tem a nossa comunidade que eu vou mostrar para vocês mais para frente. E aqui tem a agenda, no caso aqui aparece já as tarefas do seu cronograma
+6:316 minutos e 31 segundospersonalizado. Eu tinha gerado um antes aqui, então por isso que tá aparecendo essas tarefas. Então já aparece aqui o que que eu teria que fazer essa semana, né? Então aqui revisão, cartões e erros.
+6:406 minutos e 40 segundosQue que seria essa revisão de cartões e erros? Eu refazer as questões erradas e eu resolvi flashcards que a própria plataforma já disponibiliza. Então essa
+6:476 minutos e 47 segundosagenda é justamente o cronograma. tem também o cronograma mais detalhado, mas já aparece quais que são as suas metas para cada dia. Como eu gerei um cronograma antes, tá aparecendo aqui.
+6:566 minutos e 56 segundosTem aqui a aula que você vai assistir as questões. Então você clica aqui, você já vai direto pra aula. Você clica ali nas questões, você vai já vai direto para as
+7:037 minutos e 3 segundosquestões. Então isso já é integrado com seu cronograma personalizado, tá? Isso daqui não é um um algo pronto que é entregue para todo mundo, não. Isso daí
+7:117 minutos e 11 segundosé personalizado para cada aluno. Depende do seu objetivo, depende do seu tempo de estudos por dia. Esse cronograma é totalmente individualizado pra sua
+7:197 minutos e 19 segundosrotina, tá? Aqui é a agenda, então você já abre a plataforma, já tem aí o que que você vai fazer. Você não precisa ficar pensando muito, você só clica aqui e vai e vai direto pra aula, pras
+7:287 minutos e 28 segundosquestões que você tem que fazer. E aqui esse mascote é uma funcionalidade muito legal que tem na plataforma, que eu nunca vi em nenhuma outra plataforma, tá? Então isso é a primeira vez que a
+Capítulo 4: Mascote e oficinas práticas
+7:367 minutos e 36 segundosgente tá que a gente tá inserindo isso numa plataforma de estudos pra prova do Enem. Você tem um mascote, né, no caso é a águia, que é o símbolo do protocolo
+7:447 minutos e 44 segundosEnem. Então olha só, tá chocando aqui o ovo, ela vai nascer. Nasceu aqui a águia, então nasceu uma águiazinha que é meio que o seu mascote que vai te
+7:517 minutos e 51 segundosacompanhar ao longo de toda a sua preparação e ela vai evoluindo junto contigo. Você po pode colocar qualquer nome para ela. Vou colocar aqui Marquinhos, né? Então o nome dela vai ser Marquinhos. Então o que que acontece, cara? Ela nasce filhotinha.
+8:028 minutos e 2 segundosEntão você pode falar: "Pô, isso daí é uma galinha, não é não é uma águia não?
+8:058 minutos e 5 segundosÉ porque é filhote. Isso daqui é filhote. É uma águia filhote. E ela vai evoluindo contigo conforme você vai fazendo questão, vendo aula na
+8:128 minutos e 12 segundosplataforma. Então ela vai crescendo e se desenvolvendo. Então, pô, você fez tantas questões, você vu aula na plataforma, você tá progredindo nos seus
+8:198 minutos e 19 segundosestudos, ela vai progredir junto contigo. Então, ela sai ali do filhote e ela vira vira uma águia jovem, depois ela vira uma águia adulta, depois ela
+8:278 minutos e 27 segundosvira uma águia dourada, uma águia de fogo, uma águia lendária. Então tem várias evoluções dela justamente para tornar essa dinâmica do estudo mais
+8:348 minutos e 34 segundosinteressante. E se você para de estudar, se você fica muito tempo sem acessar a plataforma, se você não tá cumprindo as suas metas, se você não faz o quantas
+8:428 minutos e 42 segundosquestões deveria fazer, ela começa a ficar triste, ela fica doente. Então assim, é um cuidado, é o mesmo cuidado que você tem que ter com seus estudos,
+8:498 minutos e 49 segundosvocê acessar a plataforma, você fazer as questões, você vê as aulas, se você quer que a sua águia, que o seu bichinho aí fique bem, que ele continue evoluindo,
+8:578 minutos e 57 segundossabe? Então isso daqui é uma metáfora pros seus estudos, né? Então, se você tá instruindo na plataforma, se você tá fazendo questão, se você tá revisando, tá fazendo simulado, cara, ele vai se
+9:069 minutos e 6 segundosdesenvolver, seu estudo vai se desenvolver, assim como esse bichinho, esse mascote que você tem, né, que você pode colocar qualquer nome para ele, né,
+9:129 minutos e 12 segundose tem aqui os dias de vida dele. E aqui dentro da parte do mascote também tem as oficinas, que são aulas práticas, né?
+9:199 minutos e 19 segundosEntão são oficinas 3D que você tem que você ensina o conteúdo ali, os conteúdos principais pro seu mascote. Isso faz com que ele consiga se desenvolver também.
+9:279 minutos e 27 segundosEntão aqui tem várias oficinas diferentes. A gente vai atualizando ao longo do ano, colocando mais oficinas práticas para vocês, justamente para você pegar o aspecto mais prático da
+9:359 minutos e 35 segundosmatéria, você ter uma uma oficina mais lúdica para você ver a matéria de outra forma. Então aqui tem ciclo do nitrogênio, transporte na membrana,
+9:439 minutos e 43 segundosiônicou covalente, né? Circuitos elétricos, placas tectônicas. Vou colocar aqui ciclo da água, por exemplo.
+9:489 minutos e 48 segundosEntão, olha só que legal, tem aqui essa simulação 3D, né? que você pode ir alterando sol fraco, sol médio, sol forte para você ver como que funciona o
+9:579 minutos e 57 segundosciclo da água. E aqui tem umas perguntinhas. O que faz a água do mar virar vapor? Então vou colocar aqui, ah, é o calor do sol. Aí tem várias
+10:0510 minutos e 5 segundosperguntas, como o vapor vira nuvem. Eh, colocar aqui qualquer coisa, né, para responder. Aí
+10:1310 minutos e 13 segundostem várias perguntas, tem alguns que são mais fáceis e outros são mais difíceis, né, dessas aulas práticas. Dá para você também alterar aqui o vento, se tá na
+10:2110 minutos e 21 segundosfloresta, se tá na cidade. Olha só que bacana, galera, o lençol freático que caiu na prova do Enem também. Então é é bem bacana essas simulações, porque você
+10:2910 minutos e 29 segundosconsegue aí treinar, você consegue praticar, você consegue, pô, ter essa essa experiência mais lúdica dos
+10:3610 minutos e 36 segundosestudos. E tem vários simuladores disponíveis, tem de lançamento de projétil, né? Então você consegue treinar aqui, ó, o ângulo, você muda o
+10:4410 minutos e 44 segundosângulo, você pode mudar a velocidade também, aí você lança e tal e aí você consegue ver o alcance mais ou menos qual que é. Então é bem bacana para você
+10:5210 minutos e 52 segundosver esse aspecto mais prático da matéria e a gente trouxe para vocês, tá? Agora que a gente já falou dessa parte mais inicial das oficinas, vamos pra parte
+Capítulo 5: Aulas e professores
+11:0011 minutosdas aulas. Cara, dentro da plataforma você já tem aula de todas as matérias disponível pra prova do Enem e também tem parte de aprofundamento, né? Então
+11:0811 minutos e 8 segundostem parte de aprofundamento para outros vesculares. As aulas são bem aprofundadas e durante esse ano de 2027 a gente vai gravar mais aulas de
+11:1611 minutos e 16 segundosaprofundamento. Então para você que quer fazer algum vestibular discursivo, para você que quer fazer algum vestibular mais específico, uma Fuvest, uma
+11:2211 minutos e 22 segundosUnicamp, uma WERGE, uma UEMA, uma UFO, cara, vai ter aulas específicas dentro da plataforma. Essa é uma das grandes propostas que a gente tem pro Enem, pra
+11:3111 minutos e 31 segundos2027, né? trazer essas aulas mais de aprofundamento, mais de treinamento de questões de discursiva, porque o conteúdo do Enem em si já tá completo
+11:3911 minutos e 39 segundosdentro da plataforma. Marcos, e quem dá as aulas na plataforma é você? Não, galera, a gente contratou os melhores professores em cada disciplina,
+11:4711 minutos e 47 segundosprofessores que tm um domínio técnico absurdo das da matéria, que tem uma didática muito boa. Então, todos os professores que a gente contratou, eles
+11:5411 minutos e 54 segundossão amplamente elogiados pela sua didática. Então eles ensinam nos melhores cursinhos presenciais do Brasil, nos cursinhos que cobra R$ 3,
+12:0112 minutos e 1 segundo4.000 por mês, a os alunos têm aula com esses professores e a gente trouxe esses professores pro online. Então aqui a gente tem, por exemplo, o professor
+12:0912 minutos e 9 segundosKennedy Ramos, professor sensacional de biologia, que inclusive eu assistia muito quando eu tava estudando vestular para Enem. Ele tem um curso completo
+12:1712 minutos e 17 segundosaqui de biologia dentro da plataforma, ele junto com a Bárbara, com a Bárbara Zizi, que dá aula nos melhores cursinhos presenciais aqui do Rio também de
+12:2512 minutos e 25 segundosbiologia, sabe? Então, uma professora super capacitada. Você vai ter aula com esses dois grandes mestres dentro da plataforma que tem uma didática muito
+12:3312 minutos e 33 segundosboa. Então, vocês podem até ver as aulas que eu postei aí nessas últimas semanas, né? Então, postei várias aulas com o professor Patrick, com o professor
+12:4012 minutos e 40 segundosIsaac, com o professor Igor Peixe, com o professor Juliano. Cara, dá uma olhada, as aulas são muito boas, você consegue entender o conteúdo de forma muito
+12:4712 minutos e 47 segundosfácil, porque são professores que tm um domínio aprofundado daquela matéria, que que ensinam há mais de 10 anos, a maioria já tem uma experiência de mais
+12:5512 minutos e 55 segundosde 10 anos em sala de aula preparando para cursinhas de Enem e também eles sabem como que a prova funciona. Então, todos esses professores, eles sabem
+13:0313 minutos e 3 segundosexatamente como que funciona a cobrança daquela matéria específica no Enem, nos vestibulares estaduais. Então eles vão direcionado durante a aula para aquilo
+13:1113 minutos e 11 segundosque você realmente precisa saber para conseguir acertar as questões, certo?
+13:1513 minutos e 15 segundosEntão a gente tem aqui várias aulas para você assistir. Olha só, olha o módulo de genética, cara. Olha só o aprofundamento que a gente tem aqui, sabe? Tem tudo
+13:2313 minutos e 23 segundospronto para você. Tem a lista de questão depois para você praticar, sabe? E não só isso, pô, a gente tem a parte de linguagens toda completa também. Então,
+13:3213 minutos e 32 segundoscompetência por competência e habilidade. Cara, tem muita gente que compra curso de competência e habilidade por fora, que é mais caro do que o protocolo, que é mais caro do que a
+13:3913 minutos e 39 segundospromoção que a gente tá colocando. Curso só de linguagens. Aqui dentro da plataforma do protocolo, você tem um curso por competência habilidade com a
+13:4613 minutos e 46 segundosprofessora Ana Ira, tá? Professora Ana, ela é graduada em Letras pela UERG, ela é mestre em literatura pela UFMG e pela
+13:5513 minutos e 55 segundosUniversidade de Coimbra. Então assim, e ela dá aula nos melhores cursinhos presenciais aqui do Rio de Janeiro também. Então uma professora que domina profundamente aí sobre a prova e que ela
+14:0414 minutos e 4 segundosensina, ó, baseado nas questões. Então para você que vai fazer Enem, cara, é muito bom, porque é um ensino baseado em competência e habilidade e cara não é
+14:1114 minutos e 11 segundosqualquer um, não. É uma professora especialista, mestre em literatura, pô, que já tem muita experiência dando aula, que já tem muita experiência com
+14:1914 minutos e 19 segundosvestibular, não é alguém que tá começando agora, não. É uma pessoa experiente e que dá aula nos melhores cursinhos do Brasil. a gente trouxe ela para online, sabe? E não só isso, nas
+14:2814 minutos e 28 segundosoutras matérias também. Se você for pegar geografia, se você for pegar filosofia, né? Você tem um professor aqui, sensacional. Então, olha só
+14:3514 minutos e 35 segundosquantos assuntos de filosofia, uma aula específica para cada filósofo, né?
+14:3814 minutos e 38 segundosEntão, tem até o Russel aqui, né? Que geralmente na maioria dos cursinhos eles nem colocam muito, só que a gente viu que caiu algumas questões do Enem. A gente falou pro professor fazer essa
+14:4714 minutos e 47 segundosaula, né? Então assim, é bem direto, é bem no que você realmente precisa saber da matéria. Vou pegar aqui a aula de física para vocês darem uma olhada
+14:5414 minutos e 54 segundostambém. Então ó, vou pegar aqui, ó, a a parte de lei de Newton, né? Então aqui tem aula do Isaac. Olha só, cara, ele desenha para na aula. Muito
+15:0315 minutos e 3 segundosdidática as aulas que ele traz para vocês. Então você consegue ter um aprofundamento muito legal da matéria e sempre com questões também para você
+15:1015 minutos e 10 segundospraticar, sabe? Então olha só o desenho que ele faz. É um desenho bem bacana para você bem didático, para você entender cada lei de Newton. Tem também aqui, ó, vou colocar termodinâmica, né?
+15:2015 minutos e 20 segundosEntão, máquina ciclo de carnoa, uma aula específica só sobre ciclo de carna, ele vai desenhando tudo. Então, isso que já caiu no Enem várias vezes, sabe? Tem
+15:2815 minutos e 28 segundosquestões para praticar também sempre com uma didática impecável. Então você tem o conteúdo completo já dentro da plataforma e a gente ainda vai lançar
+15:3615 minutos e 36 segundosaulas de aprofundamento para esse próximo ano. Então, não tá faltando nada. sociologia, filosofia, linguagem, história, geografia, já tá tudo pronto.
+15:4315 minutos e 43 segundosE todos os professores da plataforma, eles são formados especialistas com muita experiência em sala de aula, tá?
+15:5015 minutos e 50 segundosParte de matemática, muita gente fica em dúvida, pô, como é que é a matemática?
+15:5315 minutos e 53 segundosOlha só quanta quanta coisa a gente tem só em matemática básica. Então você que não teve um bom ensino fundamental, que não teve um bom ensino médio, a gente
+16:0016 minutospega na sua mão desde do zero na matemática e te leva até o autodesempenho. Não é a toa que a gente teve tantos alunos fazendo aí mais de 40 acertos nesse último Enem matemática,
+16:0916 minutos e 9 segundossabe? Então, a gente vai desde o zero absoluto até o avançado e a gente ainda vai lançar novas aulas de matemática, principalmente aulas práticas,
+16:1716 minutos e 17 segundosresolvendo questão junto com os alunos ao longo desse ano. Então, quem viu as aulas do Gabriel, fiz até live com o Gabriel, cara, sabe que ele é um professor sensacional e, pô, ele que dá
+16:2616 minutos e 26 segundosessas aulas aqui dentro da plataforma, você vai aprender muito. Professor licenciado em matemática, especialista na prova do Enem, já gabaritou
+16:3316 minutos e 33 segundosmatemática no Enem. Então não basta não, ele não, ele não só gabaritou matemática do Enem, mas ele também tem a graduação em matemática. Ele é licenciado,
+16:4216 minutos e 42 segundosespecialista em matemática, sabe? Dá aula nos melhores cursinhos lá de Goiânia e você vai ter acesso a esse professor aqui dentro da plataforma do
+16:5016 minutos e 50 segundosprotocolo. Então para você ver o grau de aprofundamento, grau de cuidado que a gente tem com nossos alunos, com as aulas são absurdas. Eu diria que é a cereja do bolo, porque são os melhores
+16:5916 minutos e 59 segundosprofessores em cada disciplina, todos os professores com uma didática impecável e com domínio técnico profundo da matéria.
+17:0517 minutos e 5 segundosE não só isso, tem a parte aqui, ó, tem os padrões de questão, né? Então você pode também estudar os padrões de questão. São aulas comigo inclusive, né?
+17:1317 minutos e 13 segundosEntão aqui, ó, aula de funções da linguagem em que eu te ensino baseado nas questões, o que que você precisa saber para acertar, né? Então isso daqui
+17:2117 minutos e 21 segundosé bem bacana também. Se você quer dominar o padrão de cobrança do Enem, eu já fiz mais de 40 acertos várias vezes em linguagem na prova do Enem. Então eu
+17:2817 minutos e 28 segundoste ensino o que realmente importa para você conseguir acertar qualquer questão de linguagem do Enem. Qual que é o raciocínio que você tem, como que eu penso, macetes de resolução, técnicas
+17:3717 minutos e 37 segundospara resolver mais rápido e não só de linguagens. A gente tem também, ó, tem a parte aqui de linguagem, vários módulos para você estudar na parte de padrões de
+17:4417 minutos e 44 segundoslinguagem, mas a gente tem também, ó, tem padrões de física aqui para você estudar também, vários padrões de física, várias aulas para você assistir,
+17:5217 minutos e 52 segundossabe? Tem aqui também, ó, cada módulo tem aulas para você assistir. A gente tem também, ó, padrões de química,
+18:0018 minutospadrões de biologia, padrões de matemática, né? E esse ano a gente tá planejando os padrões de humanas, então vai ficar completo com todos os padrões
+18:0718 minutos e 7 segundosde questão aí da plataforma aí do do que caem do Enem, de todas as áreas do conhecimento do Enem. Tem aqui os padrões de questão também para você
+18:1518 minutos e 15 segundosestudar de matemática. Então tem de todas as áreas do conhecimento do Enem essas aulas específicas de padrões de questão. Beleza? Além disso, a gente tem
+18:2218 minutos e 22 segundosa parte aqui, ó, deixa eu mostrar para vocês. A gente tem o treinamento também, individualização de estudo, organização dos estudos. Então isso é uma mentoria
+18:3018 minutos e 30 segundosgravada comigo em que eu te ensino como estudar de forma eficiente e todo o meu método de estudo que eu usei para conseguir aprovação e medicina na
+18:3818 minutos e 38 segundosfederal direto do ensino médio. Direto do ensino médio, estudando totalmente em casa. Esse é o foco aqui desse desse módulo de estratégia de estudos, né?
+18:4718 minutos e 47 segundosEntão você vai saber como você estudar para conseguir se desenvolver mais na matéria. Eu trago isso para vocês. Agora vamos pra cereja do bolo aí da
+Capítulo 6: Banco de questões
+18:5418 minutos e 54 segundosplataforma, que é o nosso banco de questões. O banco de questões mais tecnológico que você já viu na sua vida.
+19:0019 minutosSão mais de 50.000 questões para você praticar e mais de 90% das questões de matemática, física e química dentro da plataforma tem resolução em vídeo.
+19:1019 minutos e 10 segundosCompara com as outras plataformas, manda mensagem para eles, pergunta: "Tem resolução em vídeo da maioria das questões de matemática, física e química? do banco de questões, a nossa
+19:1819 minutos e 18 segundostem resolução em vídeo aí da maioria de mais de 90% das questões de matemática, física e química da plataforma. Então você vai resolver uma questão de
+19:2719 minutos e 27 segundosmatemática, depois vai ter o vídeo de resolução para você assistir. Você não vai ter que ficar procurando aí a questão, o enunciado da questão no YouTube para você ver um vídeo de resolução, que é isso, já tem na
+19:3519 minutos e 35 segundosplataforma para você assistir. Você não perde tempo com isso, compara com outras plataformas, porque a maioria não coloca vídeo de resolução pro aluno assistir,
+19:4419 minutos e 44 segundostá? A nossa coloca. Então isso é um diferencial. Quando você pensar em assinar outra plataforma, pergunta para eles, tem vídeo de resolução das
+19:5119 minutos e 51 segundosquestões? A nossa tem mais de 90% de matemática, física e química tem aí vídeo resolução na plataforma, tá? E aí e o que que é legal, cara? Você pode
+19:5919 minutos e 59 segundosrabiscar aqui na questão. Então, dá para você, ó, ir fazendo umas marcações. Se você quiser fazer uma continha, ó, você pode ir fazendo, no caso aqui, eu tô
+20:0720 minutos e 7 segundospelo pelo computador, né? Mas pelo celular, pelo iPad, você pode ir desenhando aqui, né? Então isso é muito bacana. Você já viu alguma plataforma
+20:1520 minutos e 15 segundoscom essa funcionalidade? Isso daí é uma inovação que a gente tá trazendo.
+20:1820 minutos e 18 segundosNenhuma plataforma do Brasil tem essa possibilidade de você rabiscar na questão. Isso é algo específico nosso que a gente tá trazendo e que provavelmente um monte de concorrente
+20:2720 minutos e 27 segundosvai ver esse vídeo e vai copiar essa funcionalidade, mas vocês já sabem onde que vocês estão vendo pela primeira vez.
+20:3220 minutos e 32 segundosDá para você rabiscar na questão. Você pode colocar aqui para você refazer só questões que você errou. Então coloquei aqui questões que eu errei, né? Essa é uma conta de teste. Então tem várias
+20:4120 minutos e 41 segundosquestões aqui que eu fiz usando essa conta. E aí você pode só ir refazendo seus erros. Dá para você colocar todas as questões, né? A gente tem mais de
+20:4920 minutos e 49 segundos50.000 questões aqui na plataforma para você praticar. E você pode filtrar aqui.
+20:5320 minutos e 53 segundosEntão aqui do lado, ó, tem aqui os filtros. Você pode colocar, por exemplo, ah, quero fazer questões do Enem, do Enem PPL, de vestibulares específicos.
+21:0021 minutosVocê pode selecionar o ano. Você pode selecionar a dificuldade da questão.
+21:0421 minutos e 4 segundosVocê pode selecionar aqui, por exemplo, ah, quero fazer questões de biologia. Aí você coloca o assunto dentro da biologia. Ah, quero fazer questões de
+21:1221 minutos e 12 segundosbotânica. E tem os conteúdos dentro da botânica também. Então, olha só, vários conteúdos aí dentro da botânica para você estudar. Não só isso, galera. Você
+21:2021 minutos e 20 segundospode colocar aqui, ó, citologia. Cara, é muita, é muitos, são muitos filtros disponíveis para você tá aí revisando,
+21:2721 minutos e 27 segundospara você conseguir estudar de forma direcionada um conteúdo específico, tá?
+21:3221 minutos e 32 segundosEntão são vários filtros aqui. Então, por exemplo, em matemática você coloca aqui geometria espacial, vai ter várias opções para você colocar de geometria espacial. Então, vou dar um exemplo para
+21:4021 minutos e 40 segundosvocês aqui, ó. Peguei essa Enem, esse, essa questão aqui do Enem Belém, né?
+21:4521 minutos e 45 segundosDeixa eu ver aqui o Enem PPL. Já tem, já tá tudo atualizado, já tem várias questões aí para você praticar, né?
+21:5121 minutos e 51 segundosEntão, vou pegar essa daqui, ó. Vou responder, ó. Acertei. Que que tem aqui?
+21:5721 minutos e 57 segundosA análise tri da questão, tá? Então, tem o tri da questão. Qual que qual que é a escala do tri da questão, a
+22:0422 minutos e 4 segundosdiscriminação, o acerto ao acaso da questão, né? Tem todos os dados aí dos parâmetros oficiais. dos microdados do
+22:1222 minutos e 12 segundosEnem, toda a análise TRI, todas as questões do Enem, a gente coloca essa análise TRI para vocês, tá? Então, vou dar aqui outro exemplo, né? Vamos pegar,
+22:1922 minutos e 19 segundospor exemplo, questões do Enem de 2022 pra gente fazer, que foi um Enem difícil. Vou colocar aqui, ó, bum, vai ter aqui o gabarito comentado, todo
+22:2822 minutos e 28 segundosbonitinho. E aqui tem vídeo de resolução, né? Então, você clica aqui em vídeo de resolução, você vai assistir o vídeo aí resolvendo essa questão,
+22:3522 minutos e 35 segundosbeleza? Então você quando errar uma questão de matemática, de física e de química, mais de 90% das questões vão ter essa opção de você ver um vídeo de resolução daquela questão específica.
+22:4622 minutos e 46 segundosVocê não precisa ficar procurando no YouTube, a própria plataforma já traz essa possibilidade para vocês, tá? Então aqui, ó, tem algumas que a gente ainda tá colocando o vídeo de resolução, né?
+22:5522 minutos e 55 segundosMas essas daqui já tem. Você clica aqui, você já vai direto pro vídeo de resolução, né?
+23:0123 minutos e 1 segundoEntão isso é muito bacana que a gente trouxe na plataforma justamente para vocês conseguirem ter esse esse direcionamento específico. Então deixa
+23:0823 minutos e 8 segundoseu tirar mais filtro aqui. Coloquei geometria espacial, né? Aí agora já tá aparecendo todas as questões de matemática. Vou colocar essa daqui, ó.
+23:1623 minutos e 16 segundosVídeo de resolução. Tem aqui o vídeo de resolução. Vai ter aqui a análise TRI da questão, né? Dos microdados da questão.
+23:2323 minutos e 23 segundosMuito bacana, galera. Isso daqui é uma funcionalidade incrível que a gente trouxe pra plataforma. Vídeo de resolução também tem o vídeo de resolução para você as eh assistir. Tem
+23:3223 minutos e 32 segundosaqui os dados do TRI, quantas por c das pessoas acertaram o nível na escala TRI, qual que é a discriminação da questão,
+23:3923 minutos e 39 segundosacerta ao acaso. E aqui a gente meio que traduz o que que esses números significam para quem não entende muito bem do TRI, né? Então já tem tudo aí
+23:4823 minutos e 48 segundospara você na plataforma. Olha só esse banco de questões, que fantástico. E se você acha que é só isso, você tá muito enganado. A gente tem esse banco de questões que você consegue filtrar
+23:5623 minutos e 56 segundosvárias questões, mas tem também a opção de você montar a sua própria lista desse simulado. Então, vou gerar aqui uma lista, né? Você coloca quantas questões
+24:0424 minutos e 4 segundosvocê quer fazer. Então, digamos, ah, quero fazer um simulado de 30 questões de matemática. E você coloca matemática aqui. Vou colocar os assuntos que eu já
+24:1224 minutos e 12 segundosestudei de matemática. análise combinatória, estatística, funções.
+24:1524 minutos e 15 segundosEntão, quero revisar análise combinatória, estatística e funções.
+24:1824 minutos e 18 segundosVocê pode colocar aqui, você pode também selecionar o conteúdo específico dentro de cada assunto, tá? Então isso é bem bacana para você fazer essas revisões.
+24:2624 minutos e 26 segundosVocê pode colocar a dificuldade, quero fazer questões só fáceis e médias, por exemplo. Você pode escolher a prova, né?
+24:3224 minutos e 32 segundosEnem, Enem PPL, se você quer fazer FVEST, Unicamp, Unesp, já tem tudo aí para você praticar, tá? Desde 2009, de cada prova. Você pode também selecionar
+24:4124 minutos e 41 segundosquestões que você já errou, que você nunca respondeu, que você já acertou, né? Então aí você gera uma lista, vai ser um simuladinho, você vai ter um
+24:4924 minutos e 49 segundossimuladinho para você praticar. Olha só que bacana. Aí vê, eu tinha selecionado questão de funções, aí você vai respondendo aqui, né, o seu simulado. Aí
+24:5724 minutos e 57 segundosvocê vai respondendo e tal. Aí você responde depois tudo, coloca entregar lista, entregar e corrigir. E depois você tem aí o o eh você tem a análise da
+25:0725 minutos e 7 segundosde como que foi o seu desempenho nessa lista, né? Você fala assim: "Pô, assuntos para revisar". Quais assuntos que você tá fraco, que você precisa revisar? Eh, qual que foi aqui as questões? Eram sete fáceis e 23 médias.
+25:1925 minutos e 19 segundosOnde você mais errou? Nas fáceis, não sei o quê. Tem aqui também os dados, um segundo por questão. Quantas questões você respondeu? Sua porcentagem de
+25:2625 minutos e 26 segundosacerto, sabe? Então isso é muito bacana para você ter uma uma visão geral do seu desempenho. Se você quiser imprimir a lista, tem a opção aqui também. Você
+25:3325 minutos e 33 segundospode colocar imprimir lista, dá para você revisar com as resoluções das questões. Então aqui, ó, resolução da questão, você tem a opção aqui de você ver a resolução em vídeo, tá? Também.
+25:4225 minutos e 42 segundosEntão você clica aqui, você é redirecionado pro vídeo da questão, da resolução dessa questão específica, né?
+25:4825 minutos e 48 segundosEntão isso é muito bacana que a gente trouxe pra plataforma justamente para você ter essa noção. E em algumas questões, né, que são de outros
+25:5525 minutos e 55 segundosvestibulares, a gente faz uma simulação da dificuldade da questão no TRI. Então, por exemplo, a ERGE, pô, não tem tri, mas a gente faz uma simulação só para
+26:0326 minutos e 3 segundosvocê ter uma noção de qual que é o grau de dificuldade daquela questão, né?
+26:0626 minutos e 6 segundosEntão, tem aqui uma simulação da questão para que você tenha uma noção da dificuldade, de onde que ela se encontraria se fosse uma questão do Enem, né? Então isso é muito bacana
+26:1526 minutos e 15 segundostambém para vocês treinarem e é um dado extra. Então não só TRI do Enem, a gente traz TRI, um TR simulado de outras questões, não só do Enem, tá? Então isso
+26:2426 minutos e 24 segundosé algo que tá incluso na plataforma e a gente traz para vocês. Aqui tem as listas da equipe, que são listas de questão direcionadas que nós mesmos, os
+26:3226 minutos e 32 segundosprofessores, eu, montamos e deixamos disponível para vocês, né? Agora tem poucas porque o ano tá começando, mas ao longo do ano a gente vai colocando mais
+26:3926 minutos e 39 segundoslistas para vocês praticarem. Aqui tem um caderno de erros, né? Que que é o caderno de erros, galera? Então, eu tinha até esquecido de mostrar isso para vocês. É tanta coisa na plataforma que é
+26:4726 minutos e 47 segundosdifícil de mostrar. Deixa eu colocar aqui, ó. Colocar aqui. Olha só, você tem essa opção no final de você guardar no caderno. Que que é isso guardar no
+Capítulo 7: Caderno de Erros
+26:5626 minutos e 56 segundoscaderno? Você guarda a questão no caderno de erros, né? Então você tem um caderno em que as questões que você errar, que você marcar aqui nesse
+27:0327 minutos e 3 segundosguardar no caderno, elas ficam guardadas para você revisar depois, para você fazer anotações em cima dessas questões e elas ficam guardadas realmente na
+27:1127 minutos e 11 segundosplataforma. Então, sempre que você quiser, você vai ter o seu caderno de erros com as questões que você errou, com as questões que você teve dificuldade, questões que você achar
+27:1827 minutos e 18 segundosimportante, você pode guardar e você coloca aqui o motivo do seu erro. Pô, interpretei errado. Aí você coloca uma informação aqui, confundir eh sobre
+27:2827 minutos e 28 segundossistema, coloca aqui qualquer coisa, depois você vem aqui no caderno de erros e tem as questões para revisar. E aí
+27:3527 minutos e 35 segundosvocê pode refazer essas questões. Tem aqui os motivos do seu erro. Então, olha só, se você não sabia o conteúdo, se você interpretou errado, se você errou
+27:4327 minutos e 43 segundosna conta, então, cara, isso é muito bacana para você ter uma estatística do por que você tá errando e poder atuar direcionadamente sobre os seus erros, beleza? Então, a gente traz essa
+27:5127 minutos e 51 segundospossibilidade para vocês. E, ó, erros recentes fora do caderno. Se você não colocou alguma questão dentro do caderno de erros e tal, você pode revisar ela
+27:5927 minutos e 59 segundostambém, porque ela fica guardada aqui, né? Ela não fica no caderno de erros propriamente, você não faz aquele comentário, mas você pode guardar se você esqueceu, por exemplo. Então a
+28:0828 minutos e 8 segundosgente já te dá esse feedback também. E aqui você pode fazer observação. Então aqui interpretei errado, confundi sobre sistema, você pode meio que fazer
+28:1528 minutos e 15 segundosalgumas anotações sobre aquela questão que você errou. Cara, eu fazia muito isso na minha preparação, né? Eu tô até aqui com o meu caderno de erros, vou até mostrar para vocês, cara. Eu tinha um
+28:2428 minutos e 24 segundoscaderno de erros que eu guardava as questões que eu errava. E, cara, essa esse método ele me ajudou muito ali para para ciências na natureza, né? E eu quis
+28:3228 minutos e 32 segundosimplementar ele na plataforma porque, cara, facilita muito você já ter as questões que você errou guardadas, sabe?
+28:3828 minutos e 38 segundosVocê não tem que ficar procurando, você não tem que ficar fazendo essas anotações igual eu fazia, não. Já tá guardado aqui para você revisar depois e você ainda pode fazer anotações. Você
+28:4528 minutos e 45 segundospode fazer um resuminho baseado na questão, né? Então você faz aqui um resuminho sobre hidrografia, sobre clima e aí já tá guardado para você revisar.
+28:5228 minutos e 52 segundosEntão é muito fácil de usar, muito tranquilo. Meu sonho ter uma funcionalidade dessa quando eu tava na minha preparação ia facilitar muito. E
+29:0029 minutossempre que você quiser também você pode refazer aqui a questão do seu caderno de erros. Ah, Marcos, não quero mais ela no meu caderno de erros. Você coloca aqui já domino. Então, dominada. Aí aparece
+29:0929 minutos e 9 segundospara você que a questão tá dominada justamente porque você já conseguiu resolver aquele conteúdo, já supriu a sua dificuldade. Então tem essa opção também dentro do caderno de euros.
+Capítulo 8: Estatísticas de desempenho
+29:1929 minutos e 19 segundosGalera, agora vamos paraa outra parte muito interessante da plataforma, que é essa aba de desempenho, em que você consegue ter uma visão geral do seu
+29:2729 minutos e 27 segundosdesempenho nas questões, tá? Então, cara, você nunca viu algo tão detalhado quanto a gente trouxe aqui para vocês.
+29:3329 minutos e 33 segundosEntão, dá para você dividir o tempo aí que você quer ver o seu desempenho nas questões. Se você quer ver dos últimos 90 dias, dos últimos 30 dias, dá para
+29:4029 minutos e 40 segundosvocê ver por matéria também. E olha só que legal, cara. Aparece aqui seu ponto fraco principal, então a matéria que você tá errando mais nas questões, né? E
+29:4829 minutos e 48 segundosvocê pode clicar aqui, você já vai direto treinar aquele assunto, fazer mais questão daquele assunto, aparece um ponto forte seu, no caso ritmo de prova aqui, porque eu tava, eu respondo as
+29:5629 minutos e 56 segundosquestões rápido, né? Porque, pô, essa é uma conta de teste também. Então, tem aqui, você sempre vai ter o registro do tempo que você passa em cada questão.
+30:0530 minutos e 5 segundosEntão, isso é muito bacana que a gente traz na plataforma também, tem seu melhor horário. Então, quando você consegue acertar mais questões, se é de manhã, se é de tarde, se é à noite, tem
+30:1330 minutos e 13 segundosaqui o nível, né? Então, atenção, você tá abaixo dos participantes do Enem, então minha taxa de acerto é 7%, é muito fraca, né? Pouca constância. Então aqui, eh, tem outro problema que você tem, né?
+30:2430 minutos e 24 segundosEntão, no caso, dois dos últimos 14 dias, você respondeu questão só em dois dos últimos 14 dias e aparece tudo personalizado de acordo com as suas
+30:3230 minutos e 32 segundosestatísticas na plataforma. Se você tem uma constância boa, vai aparecer aqui.
+30:3530 minutos e 35 segundosSe o seu nível de acertos é bom, vai aparecer aqui. E não só isso, tem aqui os acertos por área do conhecimento e o acerto por matéria. Ah, Marcos, é isso aí, cara. Olha só, tem o mapa de
+30:4430 minutos e 44 segundosdomínio, a gente tem tudo isso, mapa de domínio, evolução, acertos e erros, hábitos, Enem, microdados, TRI e revisão. Tem todo, todas as informações
+30:5330 minutos e 53 segundosbem detalhadas para você, tá? Então, olha só, você pode ver quanto que quanto que tá a sua porcentagem de domínio dos conteúdos que caem no Enem, tá? Dá para
+31:0131 minutos e 1 segundovocê ver quantos conteúdos você conquistou nos últimos 30 dias, no tem conteúdos que t um risco maior de esquecer. Então, o nosso próprio sistema
+31:0931 minutos e 9 segundosmanda ali aqueles conteúdos que você tá um pouco na dúvida, que você tem errado um pouco mais nas questões e a gente te diz quais que são esses conteúdos, sabe?
+31:1731 minutos e 17 segundosAqui tem os conteúdos que você não estudou ainda e os quase dominados, aqueles conteúdos que tá em 65 a 79% de domínio, né? Então, cara, já tem todas
+31:2631 minutos e 26 segundosessas estatísticas para você dentro da plataforma tem um mapa de prioridade, então você consegue saber o a prioridade de cada assunto, quais assuntos que você tá mais fraco também vai aparecer aqui.
+31:3631 minutos e 36 segundosVocê consegue ver por matéria o seu domínio no conteúdo, em cada assunto específico. Olha só, cara. Olha o nível disso aqui. Olha o nível disso aqui.
+31:4431 minutos e 44 segundosVocê tem ecologia e você tem cada subtópico dentro da ecologia que vai aparecer aí o seu nível. se você já resolveu questão, se você nunca resolveu
+31:5231 minutos e 52 segundosquestão, qual que foi a sua taxa de acerto. Então isso daqui é muito bacana para você saber qual que é o seu nível de domínio de cada conteúdo. Dá para
+31:5931 minutos e 59 segundosvocê ver a sua evolução, né? Sua evolução por área do conhecimento, sua evolução nos últimos dias. Cara, isso é muito bacana que a gente traz na plataforma. Tem aí seus principais
+32:0832 minutos e 8 segundosacertos, seus principais erros. Qual que é o seu desempenho dependendo da banca?
+32:1232 minutos e 12 segundosEntão, às vezes você é muito bom na banca da Unesp, né? Vai aparecer aqui que você acerta muitas questões da Unesp. Isso é muito legal que a gente tem na plataforma. tem os hábitos, né?
+32:2032 minutos e 20 segundosConstância nas questões, qual que é o melhor horário, tempo por questão, né? A gente divide aqui por matéria. Olha o nível, cara. Você já viu isso em alguma
+32:2832 minutos e 28 segundosplataforma? Seja sincero. Você já viu isso? A gente entrega estatística super detalhada, justamente para você saber no que você precisa focar, nos seus pontos
+32:3632 minutos e 36 segundosfracos. Cara, a plataforma já entrega isso pronto para você. Tem o Enem de verdade aqui, né, em que você compara o seu desempenho de acordo com os
+32:4432 minutos e 44 segundosparticipantes do Enem. Então isso é bacana também para você ter uma noção aí comparativa de como que você tá. Tem os microdados do TRI, né? Então você
+32:5232 minutos e 52 segundosconsegue ver aí de acordo com os microdados oficiais do Nem se você tem um padrão coerente de respostas, se você caiu em pegadinha, né? Cara, isso é
+33:0033 minutosmuito legal, muito legal mesmo, que a gente trouxe pra plataforma, né? Isso tudo é calculado de acordo com que você vai respondendo de questões do Enem, né?
+33:0833 minutos e 8 segundosE aqui tem revisão. Então, pô, já vai aparecer direto os tópicos que você tá mais fraco e que você precisa revisar.
+33:1433 minutos e 14 segundosMarcos, não sei o que revisar, acabou seu problema, cara. Conforme você vai fazendo questão na plataforma, você vem aqui em desempenho, vem aqui em revisão, já tem aí os conteúdos para você
+33:2233 minutos e 22 segundosrevisar, pronto, tá? A gente entrega isso para você. Olha o nível aí das estatísticas que a gente trouxe. Eu f decidi fazer aqui rápido, senão o vídeo
+33:3033 minutos e 30 segundosia ficar infinito, né? Mas, pô, tem muita funcionalidade aqui dentro das questões, justamente porque a gente entende que quanto mais o aluno souber do seu desempenho, mais o aluno tiver
+33:3933 minutos e 39 segundosesse direcionamento de o que revisar, o que estudar para conseguir melhorar, mais ele vai alcançar o autodesempenho.
+33:4533 minutos e 45 segundosNão é à toa que a gente teve tanto aluno aí com mais de 160 acertos. É o estudo personalizado, personalizado de acordo com as suas demandas, tá? A gente tem
+Capítulo 9: Simulados, flashcards e redação
+33:5233 minutos e 52 segundosaqui simulados, então todo mês tem simulado inédito TRI, tá? Então, a gente colocou aqui um mini simulado diagnóstico inicialmente pros alunos
+33:5933 minutos e 59 segundosfazerem, mas eh todo mês a gente tem simulado inédito TR para vocês fazerem.
+34:0434 minutos e 4 segundosEntão dois dias pelo menos por mês, a gente quer colocar toda semana, tá?
+34:0834 minutos e 8 segundosEntão a partir aí de fevereiro, março, já deve colocar toda semana simulado inédito com correção com nota TRI. Todas as questões inéditas, 180 questões
+34:1734 minutos e 17 segundosinéditas. Tem aqui a parte dos flash cards. Como é que funciona isso nos flash cards, Marcos? Cara, conforme você vai estudando, conforme você vai vendo
+34:2534 minutos e 25 segundosas aulas na plataforma, vai liberando flashcards para você. Então, por exemplo, você viu uma aula de ecologia, né? Então, você viu ali de relações
+34:3234 minutos e 32 segundosecológicas, vai aparecer aqui flash cards de relações ecológicas. Você vai clicar aqui em cartões e você vai poder revisar aí esses flash cards de relações
+34:4034 minutos e 40 segundosecológicas, tá? Então, tudo pronto para você, tudo automatizado, beleza? Então, Flash Card é uma estratégia muito boa de revisão, de retomada de conceitos e a
+34:4834 minutos e 48 segundosgente trouxe também na plataforma para vocês, tá? Então tem flash card, tem a opção de flashcard dentro da plataforma também. Você pode configurar aqui
+34:5634 minutos e 56 segundosquantas questões você quer, quantos cartões você quer fazer por dia, o máximo de revisões por dia, a agenda dos cartões. Tá tudo pronto, cara. Tudo pronto. Olha o nível disso aqui, tá?
+35:0635 minutos e 6 segundosConforme você vai fazendo, vai vendo as aulas, vai liberando flashcard aqui para você, para você ir revisando os conteúdos. Então isso é muito bacana
+35:1335 minutos e 13 segundostambém. A gente tem a nossa aba de redação também, tá? Então a redação é corrigida por corretores oficiais da banca do Enem. Tem muitos temas para
+35:2135 minutos e 21 segundosvocê praticar. Eu não vou entrar muito em detalhes, né? Não é correção por IA, é correção feita por corretores humanos formados em letras, especialistas na
+35:3035 minutos e 30 segundosprova do Enem. Beleza? Então, a gente traz correção muito detalhada pros alunos. E aqui tem uma parte muito interessante que é a parte da rotina, em que você pode gerar o seu cronograma
+Capítulo 10: Cronograma personalizado
+35:3835 minutos e 38 segundospersonalizado. Eu tinha gerado um antes, vou tirar aqui, tá? E você pode montar o cronograma. Você clica aqui em montar cronograma e aí você coloca aqui os seus
+35:4735 minutos e 47 segundosdados. Ah, quero medicina na UFRJ. de onde você tá partindo, se você já tá partindo de uma preparação passada, se você já tem um nível bom, que é só
+35:5535 minutos e 55 segundosrevisar, se você tá começando agora, você pode colocar o ritmo que você consegue manter, né? Então, quem trabalha, quem tem outras atividades consegue um ritmo leve, algumas pessoas
+36:0336 minutos e 3 segundosconseguem ritmo equilibrado, outras têm ali, querem fazer um ritmo mais intenso, tem essa opção também. Você coloca quanto tempo que você estuda por dia, né? Então, vou colocar aqui, por
+36:1136 minutos e 11 segundosexemplo, ah, de 8 às 9, né? E olha só, outra coisa bacana, né? você consegue colocar o horário dividido. Então, olha
+36:2036 minutos e 20 segundossó, eu estudo de 8 a meio-dia e eu estudo também. E eu só consigo estudar depois de 6 às 9, sei lá, vou colocar aqui 9 horas.
+36:3236 minutos e 32 segundosE aí você consegue quebrar o seu estudo, né? Então você não precisa colocar ali uma quantidade fixa de horas por dia.
+36:3836 minutos e 38 segundosVocê pode ir quebrando o seu estudo de acordo com os seus horários mesmo e a gente gera o cronograma feito para os seus horários, pro seu tempo disponível de estudos por dia, tá? Então vou
+36:4636 minutos e 46 segundoscolocar aqui, por exemplo, na terça, você pode ir alterando. Vou colocar aqui qualquer valor, só para agilizar, né?
+36:5336 minutos e 53 segundosColocar aqui eh bastante, ó, 4 da manhã já é demais, né? Vamos colocar aqui 10.
+37:0237 minutos e 2 segundosVou colocando aqui os horários, né? Colocar aqui um horário qualquer.
+37:0837 minutos e 8 segundosOpa, aqui ele até identificou. Coloquei que eu começo 1:30 e termino meio-dia.
+37:1237 minutos e 12 segundosSó que não pode, né? Em que período você rende mais? Então, por exemplo, se você rende mais de manhã, o cronograma ele vai te indicar as tarefas mais difíceis
+37:2137 minutos e 21 segundospara fazer pela manhã. Beleza? Tem aqui os dias do Enem. Isso daqui é simulado, não tem um dia oficial aí do Enem de 2027, mas a gente colocou aí o final de
+37:3037 minutos e 30 segundossemana de novembro, né? já tá aí 7 a 14 de novembro, mais ou menos parecido do que foi esse último ano. Então, só para você ter uma noção. E aí você coloca o
+37:3737 minutos e 37 segundosprimeiro e o segundo dia de prova, quanto dia, quantos dias até o primeiro dia de prova, quantas semanas tem de estudo. Se você quer tirar umas férias,
+37:4537 minutos e 45 segundosdá para você colocar aqui dias sem estudo, né? Então, por exemplo, pô, vou tirar umas férias em julho, vou ter que fazer uma viagem, não vou conseguir estudar. Dá para você colocar no seu cronograma também que ele se adapta.
+37:5437 minutos e 54 segundosVocê pode colocar os pesos aqui da universidade, né? Então, vou colocar aqui, por exemplo, ah, peso cinco em natureza, né?
+38:0238 minutos e 2 segundosDá para você colocar onde que você trava, qual que é a matéria que você tem mais dificuldade. Vou colocar aqui matemática. Você pode também já marcar
+38:0938 minutos e 9 segundosos assuntos que você sabe. Então, pô, já sei matemática zero, já sei matemática básica, não precisa estudar isso, sabe?
+38:1538 minutos e 15 segundosAí ele não vai te direcionar, o cronograma, ele não vai te direcionar para estudar esses conteúdos. Ah, já sei muito citologia, não preciso estudar. O
+38:2238 minutos e 22 segundoscronograma ele vai tirar a esitologia do seu planejamento. Ah, já sei a competência um e tal. Então, se você já tá estudando, tá vindo de uma preparação
+38:3038 minutos e 30 segundospassada, você pode desmarcar os conteúdos que você já estudou, né?
+38:3338 minutos e 33 segundosPorque aí você consegue ter mais tempo justamente para focar nas suas dificuldades. Então, aquele conteúdo que você já tem uma facilidade, que você já dominou, você pode excluir do cronograma
+38:4238 minutos e 42 segundossem problema, tá? E aqui tem várias opções, né? Se você quer fazer videoaula e questões, se você quer eh você pode
+38:4938 minutos e 49 segundosmudar a forma que você estuda no dia, se você quer fazer questões logo depois da aula, no dia seguinte, se você
+38:5638 minutos e 56 segundosquer intercalar, cara, são várias opções aqui disponíveis. Me diz qual o cronograma personalizado que te dá tantas opções, cara. E ainda a gente
+39:0439 minutos e 4 segundospode ajustar o seu cronograma na nossa monitoria. Então, os nossos monitores, eles também mexem no seu cronograma, eles podem te direcionar o que fazer.
+39:1139 minutos e 11 segundosEntão você não fica largado na plataforma, você tem os monitores para te ajudar também. Então vou colocar aqui, né, gerar cronograma.
+39:2039 minutos e 20 segundosÓ, gerou aqui o cronograma. Então eu começo aqui, clico aqui na aula, já vou logo paraa aula, né? Então tem aqui a
+39:2739 minutos e 27 segundosaula do Ked Ramos. Então eu já vou logo pra aula e tal, começo estudando, beleza? Questões aqui para fazer. Aí no
+39:3539 minutos e 35 segundosdia seguinte que eu tinha colocado mais tempo para estudar, já vai ter mais atividades. Por que que tá essa revisão cartões e erros? Porque eu tinha
+39:4339 minutos e 43 segundoscolocado para revisar todos os dias, por isso que ele indicou a revisão aí no início do dia, né? Justamente para você não acabar se enrolando. Então você vai
+39:5139 minutos e 51 segundosaqui, você vai, você clica, você já vai direto pra aula e aqui embaixo vai ter a lista de questão para você praticar.
+39:5639 minutos e 56 segundosEntão, cara, já tá tudo pronto para você, né? Já vai ter aqui o cronograma completo para você. Beleza?
+40:0440 minutos e 4 segundosvocê consegue mudando, né? Então isso é muito bacana, cara, que tem na plataforma. Você tem um cronograma personalizado e se você tiver pouco
+40:1140 minutos e 11 segundostempo de estudo por dia, o nosso cronograma adapta para você ver os conteúdos mais importantes, para você dar um foco maior em certos conteúdos em detrimento de outros, sabe? Então você
+40:1940 minutos e 19 segundostem um cronograma feito pra sua realidade individual, beleza? Então isso é muito bacana que a gente traz na plataforma. Não é um cronograma
+40:2740 minutos e 27 segundosgenérico, um cronograma pronto que serve para todo mundo, mas um cronograma personalizado e detalhado. E se você tiver dificuldade com o seu cronograma,
+Capítulo 11: Comunidade e suporte psicológico
+40:3540 minutos e 35 segundosvocê tem aqui na nossa na nossa comunidade OIN em que você pode tirar dúvidas. Então aqui dúvidas de estudos, os nossos monitores, eles estão à
+40:4240 minutos e 42 segundosdisposição para te ajudar, sabe? Você pode mandar aqui suas dúvidas de estudo, né? Aqui já tem várias pessoas falando na plataforma, né? Não vou ficar
+40:5040 minutos e 50 segundosmostrando muito para não revelar muito dessas pessoas, né? Mas você consegue você consegue conversar aí com outros
+40:5740 minutos e 57 segundosalunos também, você consegue tirar dúvidas de estudo com nossos monitores que estão à disposição. A gente avisa de eventos na plataforma nessa aba de
+41:0541 minutos e 5 segundoscomunidade, então tem tudo isso e a gente tem também o suporte psicológico, né? Então, cara, você vai ter acesso a um psicólogo, né? Você pode abrir um
+41:1341 minutos e 13 segundoschamado e aí você consegue conversar com uma psicóloga que é da do nosso suporte da plataforma, que aí ela vai ver o seu caso e vai te ajudar psicologicamente.
+41:2341 minutos e 23 segundosVocê tem suporte psicológico dentro da plataforma, tá? Você pode conversar com a nossa psicóloga que ela vai te ajudar
+41:3041 minutos e 30 segundosaí no que você tiver dificuldade. Não é inteligência artificial, não é nada disso, é uma psicóloga contratada que a gente tem pros alunos, beleza? Então, a
+41:3841 minutos e 38 segundosgente tem aí uma equipe de psicologia justamente para dar esse suporte psicológico pro aluno, porque o emocional é muito importante na preparação, a gente entende dessa forma.
+41:4641 minutos e 46 segundosE, cara, assim, o mentor ele até ajuda, eu ajudo ali nas mentorias ao vivo que eu faço com a galera e tal, mas, pô, precisa de alguém especializado, sabe?
+41:5541 minutos e 55 segundosUm psicóloga de verdade. Então, a gente trouxe psicólogo de verdade pra plataforma justamente para dar esse apoio psicológico pro aluno. Beleza?
+42:0242 minutos e 2 segundosEntão, o Protocolo Enem é uma plataforma que preza pelo psicológico do aluno. Por isso que a gente traz aí esse atendimento com psicólogo, a gente traz
+42:1042 minutos e 10 segundosesse eh essa opção de você ter suporte psicológico. Ah, Marcos, e o que que é isso aqui? Esse é o protodex, né? Então você consegue ir conversando também com
+42:1842 minutos e 18 segundosa com seu bichinho. Você pode colocar aqui: "Ah, eu quero estudar agora.
+42:2242 minutos e 22 segundosQue que tem para fazer? O que que eu não fiz ainda do meu cronograma, né? Ah, tem ainda tem três blocos mais tarde hoje, né? Então, no caso, eu tinha colocado
+42:3042 minutos e 30 segundosque eu ia estudar só a partir de 7 horas, agora tá um pouco mais cedo. E aí eu coloco aqui ver rotina, ele já direciona direto pro cronograma.
+42:3842 minutos e 38 segundosEh, quero saber quanto tempo falta pro Enem. Quero revisar, ó, cartões revisionais, caderno de
+42:4642 minutos e 46 segundoserros, revisar com Marquinhos. Então, tem aí as opções, né? Por que que tá Marquinhos? Tá? Porque foi o nome do mascot que eu coloquei, mas se você colocar Thor, se você colocar Luna, vai
+42:5442 minutos e 54 segundosaparecer aí o nome do bichinho, como como que você colocar, você decide o nome dele. Beleza? Então, cara, plataforma tá super tecnológica. Isso
+43:0243 minutos e 2 segundosdaqui é só o começo, tem muita atualização nova chegando, tá? Eu acredito de verdade que esse é o banco de questões mais tecnológico que vocês
+43:1143 minutos e 11 segundosvão ver em todo o Brasil, tá? Então assim, o que a gente trouxe é absurdo.
+43:1543 minutos e 15 segundosOlha quanto quantas métricas de desempenho, olha quantas estatísticas.
+43:1943 minutos e 19 segundosVocê pode revisar direto, você já tem aí o direcionamento do que revisar. A nossa plataforma tem o melhor banco de questões, o mais tecnológico do Brasil.
+43:2643 minutos e 26 segundosE a gente tem também as melhores aulas.
+43:2843 minutos e 28 segundosSão professores formados, experientes, que entendem profundamente sobre a prova do Enem. Você tem acesso a isso dentro do protocolo. Simulado inédito,
+43:3743 minutos e 37 segundosflashcard, correção de redação, cronograma personalizado feito individualmente para sua rotina, tá tudo pronto para você estudar em autodempenho
+43:4543 minutos e 45 segundospra prova. A gente te entrega isso dentro da plataforma e ela é totalmente personalizável também, ó. Dá para você colocar suas metas, cara. É muita coisa que tem dentro da plataforma. Bizarro.
+43:5543 minutos e 55 segundosBizarro. Vou colocar aqui escuro, né? Então você pode salvar a configuração.
+43:5843 minutos e 58 segundosAgora tá aí o modo escuro da plataforma, né? Então, para quem gosta de um visual mais dark, tem essa opção também.
+Capítulo 12: Black Friday
+44:0544 minutos e 5 segundosPessoal, a gente tá aí na nossa promoção de Black Friday, tá? Na Black Friday, o protocolo Enem com acesso vitalício.
+44:1244 minutos e 12 segundosAcesso vitalício tá saindo a 997 à vista ou 12 vezes de R99,90. E você vai ter acesso a toda essa plataforma, aula de
+44:1944 minutos e 19 segundostodas as matérias, aula ao vivo, a mentoria ao vivo comigo, tá? Você vai ter acesso a esse banco de questões fantástico, a suporte de monitores, a
+44:2744 minutos e 27 segundossuporte psicológico que a gente traz na plataforma. Nenhuma outra plataforma tem tanto, entrega tanto aí por um valor tão baixo, 997 à vista com acesso vitalício
+44:3644 minutos e 36 segundose você recebe segura aprovação. Então se você passar com a nota do Enem de 2026, a gente reembolsa o valor. Se você passar no Sizuk com a nota do Enem de 2026, você recebe o reembolso do valor.
+44:4544 minutos e 45 segundosE não é só medicina, não. Se você passar qualquer curso aí com com a nota do Enem de 2026 no Cizu, a gente reembolsa o valor para você, tá? Então galera, esse
+44:5444 minutos e 54 segundosé o protocolo Enem 997 à vista ou R$ 12 vezes R$ 100 e você tem acesso completo à plataforma. Compara, compara com outras Black Fridays. Antes de você
+45:0245 minutos e 2 segundoscomprar algum outro curso que vai lançar Black, vai falar: "Ah, a nossa é a melhor black. A nossa é a black absurda, a Black Suprema, a Black não sei o quê".
+45:1045 minutos e 10 segundosCara, compara. Isso daqui é Black Friday de verdade. A tecnologia que a gente entrega, o conteúdo que já está completo, que a gente entrega as funcionalidades por 997 à vista, tá?
+45:2245 minutos e 22 segundosEntão, o valor normal da plataforma é 2997. A gente trouxe para 997 à vista.
+45:2645 minutos e 26 segundosPô, olha os resultados que a gente teve, olha o que a gente entrega pro aluno.
+45:3045 minutos e 30 segundosOlha o nível de tecnologia, o nível de perfeição dessa plataforma, as aulas que a gente tem, o tanto de questão. Tem um trabalho muito grande de montar essa
+45:3845 minutos e 38 segundosplataforma. E você tem correção de redação também, quatro créditos por mês.
+45:4345 minutos e 43 segundosPô, a gente investiu pesado para montar essa plataforma para vocês e tá 997 à vista ou 12 vezes de 100. Compara, compara com outras Black Fridays. A
+45:5145 minutos e 51 segundosnossa é a melhor. A nossa traz preço competitivo, preço agressivo de verdade, como tem que ser numa Black Friday.
+45:5745 minutos e 57 segundosEntão, link tá aqui na descrição para você se inscrever no protocolo, tá? Eu tenho um compromisso muito grande com a aprovação dos alunos, eu tô sempre com eles, então você sempre vai ter uma
+46:0546 minutos e 5 segundosinteração comigo também ao longo do seu ano. Isso com certeza vai te puxar para cima para você conseguir aí o autodesempenho na prova. Link na
+46:1246 minutos e 12 segundosdescrição, protocolo Black. E me e comenta aí se você tiver alguma dúvida da plataforma, tá? que eu tô aí à disposição para ajudar vocês. No mais, é
+46:2046 minutos e 20 segundosisso, galera, tamo junto e até a próxima.
+
+Sincronizar com o momento do vídeo

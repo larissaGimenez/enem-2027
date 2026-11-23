@@ -1,0 +1,24 @@
+{
+  "year": 2024,
+  "title": "ENEM 2024",
+  "source": "local-json",
+  "questions": [
+    {
+      "index": 1,
+      "title": "Questão 1 - ENEM 2024",
+      "discipline": "linguagens",
+      "language": "ingles",
+      "context": "Texto base da questão...",
+      "alternativesIntroduction": "Comando da questão...",
+      "correctAlternative": "A",
+      "files": [],
+      "alternatives": [
+        { "letter": "A", "text": "Alternativa A", "file": null, "isCorrect": true },
+        { "letter": "B", "text": "Alternativa B", "file": null, "isCorrect": false },
+        { "letter": "C", "text": "Alternativa C", "file": null, "isCorrect": false },
+        { "letter": "D", "text": "Alternativa D", "file": null, "isCorrect": false },
+        { "letter": "E", "text": "Alternativa E", "file": null, "isCorrect": false }
+      ]
+    }
+  ]
+}

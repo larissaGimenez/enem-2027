@@ -1,0 +1,19 @@
+{
+  "name": "enem-2027-guia",
+  "version": "2.0.0",
+  "description": "Sistema pessoal de preparação para o ENEM 2027 com banco MySQL local e base de conhecimento das provas anteriores.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev:client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "db:init": "node scripts/init-db.js",
+    "import:enem": "node scripts/import-enem.js",
+    "import:local": "node scripts/import-local.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  }
+}

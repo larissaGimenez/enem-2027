@@ -1,0 +1,345 @@
+0:000 segundoNesse vídeo eu vou te entregar os meus principais macetes pra prova de matemática do Enem. Os macetes que se
+0:077 segundosvocê aplicar na prova você vai ganhar vários acertos e velocidade. Para você que não me conhece, eu sou Marcos
+0:1414 segundosVesconcelos, trabalho com Enem, com vestibulares aqui no YouTube há 5 anos.
+0:1919 segundosJá consegui nota no Enem para passar em todas as federais de medicina do Brasil e já ajudei centenas de alunos a conseguirem o auto desempenho na prova.
+0:2727 segundosInclusive, fui lá fazer essa provinha. Fiz o primeiro dia do Enem de 2026.
+0:3232 segundosConsegui 82, 83 acetos, 10,90 pelos gabaritos extraoficiais. Então eu aplico o que eu ensino aqui para vocês e
+0:4040 segundosconsigo notas altas todos os anos na prova. Então pode confiar. E ó, um pedido que eu faço para você, cara. Se
+0:4848 segundosesse conteúdo te ajudar, se você sentir valor no que eu tô passando para vocês, deixa o seu like, deixe seu comentário, isso ajuda demais o canal a crescer e você se conecta mais com conteúdo.
+0:5858 segundosEntão, não deixa deixar aí o seu engajamento. Muitas das vezes eu só produzo os vídeos de madrugada porque eu faço medicina, é horário integral, então
+1:061 minuto e 6 segundosassim, é bem difícil de eu conseguir produzir esses conteúdos, mas eu não posso deixar vocês na mão, então vai ter muito conteúdo aí para esse segundo dia
+1:141 minuto e 14 segundosde prova. E ó, se você já tá visando a preparação pro Enem de 2027, a gente vai abrir as vagas da Black Friday do Protocolo Enem. Nessa quarta a gente vai
+1:231 minuto e 23 segundosrevelar a oferta, revelar o preço, todos os bônus que a gente preparou. E a gente abre as vagas no dia 16. Então, logo depois do Enem, na segunda-feira, a gente tá abrindo as vagas do protocolo.
+1:331 minuto e 33 segundosForam centenas de alunos aprovados no último ano nas faculdades mais concorridas do Brasil. Medicina USP, Medicina UFMG, Medicina UFRJ. Então, se
+1:421 minuto e 42 segundosvocê tá visando uma preparação de autodempenho para prova com os melhores professores, banco de questões com mais de 50.000 questões e a minha orientação
+1:501 minuto e 50 segundosao longo de todo o ano para você evoluir mais rápido, o link tá aqui na descrição para você entrar no nosso grupo da Black Friday, vai ter sorteio de iPad também e
+1:591 minuto e 59 segundosa gente vai entregar as listas de questão de pré-teste para quem tiver ao vivo na quarta-feira. Então não deixe de estar ao vivo. Então vamos lá. Agora os macetes de matemática pra prova do Enem.
+2:112 minutos e 11 segundospara você garantir muito mais acertos e velocidade. Preciso que vocês pausem o vídeo, tentem resolver por conta própria
+Capítulo 2: Função Trigonométrica 1
+2:182 minutos e 18 segundosas questões antes, porque quando eu vier com a resolução, você vai entender muito mais se você já tiver tentado resolver,
+2:262 minutos e 26 segundostá? Então, pausa, tenta resolver e agora eu venho com a resolução mostrando o macete para vocês, certo? Galera,
+2:332 minutos e 33 segundosprimeira coisa, esse daqui é um modelo clássico de questão do Enem, em que ele vai te dar um gráfico de uma função trigonométrica e ele vai pedir para você
+2:422 minutos e 42 segundosdefinir aí qual que é essa função trigonométrica. Você olha aqui essa questão lá na hora da prova, se você não sabe resolver, já você já entra em
+2:502 minutos e 50 segundosdesespero, já fala assim: "Pô, mais uma que eu vou ter que chutar". Só que agora você vai resolver essa questão numa tranquilidade absurda. Ela já caiu
+2:572 minutos e 57 segundosvárias vezes aí na prova e assim é super tranquilo de resolver com o método que eu vou mostrar aqui para vocês. Primeira coisa, ele sempre vai pedir aqui qual
+3:063 minutos e 6 segundosque é a expressão da função. Que que vocês precisam saber? Primeiro de tudo, você vê aqui que eh nas nas expressões
+3:143 minutos e 14 segundostem aqui esses termos sen e cos, seria seno e cosseno, tá? Como que você sabe, como que você descobre se a função é
+3:233 minutos e 23 segundosseno ou cosseno? Presta atenção. Como que você descobre se a função é seno ou cosseno? Olha só, a função seno é aquela
+3:303 minutos e 30 segundosque começa do centro. Ela começa do centro, como se fosse do centro da onda, do centro do gráfico. Olha só essa esse
+3:383 minutos e 38 segundosgráfico aqui. Ele tá começando do centro, né? Tá começando do centro da onda. Você vê que ele não tá começando aqui e descendo. Ele não tá fazendo
+3:463 minutos e 46 segundosisso, sabe? Ele tá começando exatamente do centro. Então ele tá bem no meio.
+3:523 minutos e 52 segundosOlha aqui. Aqui é o meio. Ele tá bem no meio. Tá começando do centro, né? Aí você pode falar: "Ah, Marcos, mas centro não é com S." É só para você entender.
+4:014 minutos e 1 segundoCentro. Lembra disso? Centro. Quando o gráfico começa do centro, ele é seno, tá? Então, quando o gráfico começa do
+4:104 minutos e 10 segundoscentro, ele é seno. E quando ele começa aqui da extremidade, ele é cosseno, entendeu? Então, se ele tivesse começando daqui, ele é cosseno. Quando
+4:194 minutos e 19 segundoscomeça do centro é seno. Então, aí a gente já consegue eliminar algumas alternativas. Aqui você pode ver que essa B tá falando que é cos, não é cose.
+4:284 minutos e 28 segundosTá começando do centro do nosso gráfico. Essa C tá falando que é cos, não é cose. A outra tem seno e tem esse cos, né?
+4:354 minutos e 35 segundosEntão, vamos dizer aí que você não eliminou. Você poderia eliminar já de cara isso daí, tá? Só que digamos que você não eliminou. Que que você vai
+4:434 minutos e 43 segundosfazer agora? a gente vai descobrir o número que ele tá multiplicando, o número que tá aqui, o número que tá mais na frente, que tá multiplicando a
+4:514 minutos e 51 segundosfunção, tá? Tá e na frente do seno, na frente do seno do cos, dependendo da da questão que você tiver resolvendo. Como
+4:594 minutos e 59 segundosque você descobre esse número? Presta atenção. Como que você descobre o número que tá multiplicando na função? Você vai
+5:055 minutos e 5 segundospegar o termo que ele é o o extremo, a extremidade, tá? Então, a extremidade
+5:135 minutos e 13 segundosmais próxima, a extremidade mais próxima ali do início da função, nesse caso, é o 168. E você vai subtrair ele do termo do
+5:235 minutos e 23 segundosmeio. Então você pega o termo da extremidade mais próxima e você subtrai do termo do meio. Como que vai ficar
+5:305 minutos e 30 segundosisso, ó? 168 - 88. Isso daqui vai ser igual a 80.
+5:395 minutos e 39 segundos80 vai ser o termo que multiplica. Olha só, letra A, 80.
+5:455 minutos e 45 segundosA gente já tem aí nossa possível resposta. Aí você vê nos outros é 168 e 88. Então você já elimina, você já poderia marcar a letra A. Mas aí você
+5:545 minutos e 54 segundosfala: "Ah, Marcos, mas eu queria saber como que eu descubro esse 88 aqui". O 88 é o termo do meio, tá? É o termo
+6:026 minutos e 2 segundoscentral. O 88 é o termo central. Lembra disso? É o termo central. Se a função ela tivesse começando aqui, qual que
+6:106 minutos e 10 segundosseria o termo central? Ele ainda sim seria 88, tá? Então não é o termo que corta, não é o termo que corta aqui no
+6:186 minutos e 18 segundoseixo y, é o termo central. Então o termo central nessa, como é uma função seno, como tá começando do centro, é o 88.
+6:266 minutos e 26 segundosEntão aqui é o mais 88. Resposta letra A. Você entendeu? Função seno começa do
+6:326 minutos e 32 segundoscentro. função cosseno começa aqui da extremidade, né? Então, começa aqui da extremidade. Como que você descobre o número que tá multiplicando na função?
+6:436 minutos e 43 segundosVocê pega a extremidade mais próxima e subtrai ali do termo central, tá? Faz isso. 168 - 88, descobrimos 80. Como que
+6:526 minutos e 52 segundosdescobre aqui o termo que tá somando? É só você ver qual que é o termo central. Nesse caso é 88, então + 88. Certo?
+6:596 minutos e 59 segundosTranquilo? Agora olha essa outra questão. Olha essa outra questão. Deixa eu chegar aqui para baixo. Tenta resolver aí essa questão.
+7:097 minutos e 9 segundosTentou resolver? Vou dar um zoom aqui para ficar mais fácil. Tentou resolver?
+Capítulo 3: Função Trigonométrica 2
+7:137 minutos e 13 segundosEntão vamos embora que agora eu vou mostrar como que você deveria pensar para resolver essa questão com o macete.
+7:197 minutos e 19 segundosPresta atenção. Olha só. Primeira coisa, a gente tem aqui o nosso gráfico, né?
+7:247 minutos e 24 segundosEsse gráfico aqui, ele é seno ou é cosseno? Ele tá começando do centro. A onda tá começando do centro ou ela tá
+7:317 minutos e 31 segundoscomeçando da extremidade? A ondinha, né, do gráfico, ela tá começando da extremidade, ó. Ela não tá começando do centro. Começaria do centro se ela
+7:397 minutos e 39 segundoscomeçasse aqui. Aí sim ela começaria do centro, mas ela tá começando da extremidade, certo? Tá começando da
+7:467 minutos e 46 segundosextremidade. Então é cosseno, é um gráfico cosseno, beleza? Então a gente já consegue eliminar aqui, ó, esse -3
+7:557 minutos e 55 segundosseno e esse 6 seno, certo? Então é um gráfico cosseno. Beleza? E agora, como que a gente descobre o número que tá
+8:048 minutos e 4 segundosmultiplicando? Como que a gente vai descobrir esse número aqui da frente, né? Esses numerozinho da frente. A gente
+8:128 minutos e 12 segundospega a extremidade mais próxima, que nesse caso é o -3, e subtrai do termo do meio. Qual que é o termo do meio aqui?
+8:198 minutos e 19 segundosOlha só, a extremidade mais próxima é o -3, a outra extremidade é o 3. Então o termo do meio é o zero. -3 - 0.
+8:308 minutos e 30 segundosEntendeu? Eu peguei a extremidade mais próxima e subtraí do termo do meio. -3
+8:378 minutos e 37 segundos- 0 = -3. Então esse daqui vai ser o que vai multiplicar na função. Vai ser, vamos ver aqui qual das opções que tem.
+8:478 minutos e 47 segundosTem -3 cos, 3 cos e -6 cose. Só pode ser -3 cos, tá? Os outros é 3 ou -6. Então
+8:568 minutos e 56 segundossó o a que é -3 cose. Galera, questão que muita gente teria dificuldade, agora você vai resolver numa boa quando cair
+9:059 minutos e 5 segundosna sua prova. Só você lembrar desse método de resolução que eu te mostrei e vai ser tranquilíssimo para resolver questão de função trigonométrica.
+9:149 minutos e 14 segundosGalera, tentem resolver essa daqui agora. Tá, questão complicada, questão de combinatória, beleza? Muita gente não
+Capítulo 4: Probabilidade 1
+9:219 minutos e 21 segundosvai saber resolver direito, mas é importante vocês tentarem primeiro para ter uma certa noção da questão, porque eu já vou direcionado nas informações
+9:299 minutos e 29 segundoschaves. Tentou resolver, galera? Que que vocês precisam saber aqui? Tá? Primeira coisa, vamos ler o comando. A
+9:379 minutos e 37 segundosprobabilidade de se descobrir o padrão dessa cifra de César apenas na terceira tentativa é dada por, Presta atenção,
+9:469 minutos e 46 segundospresta atenção no que eu vou falar agora. Olha só, olha essa palavra que eu tô destacando. Apenas, apenas o que que
+9:549 minutos e 54 segundosvocê tem que pensar quando você vê essa palavra numa questão de combinatória, numa questão de probabilidade. Você tem
+10:0110 minutos e 1 segundoque pensar em multiplicação, tá? Quando você vê a palavra apenas em
+10:0810 minutos e 8 segundosuma questão de combinatória, de probabilidade, você vai pensar em multiplicação e pensar consequentemente no sinal de vezes, tá?
+10:1810 minutos e 18 segundosvai pensar em multiplicação e no sinal de vezes. Na maioria dos casos, o apenas nas questões de combinatória, nas questões de probabilidade, vai estar relacionado a eventos consecutivos.
+10:3110 minutos e 31 segundosEsses eventos consecutivos interdependentes, eles são eventos em que você deve
+10:3810 minutos e 38 segundosmultiplicar as probabilidades. E aí, por conta disso, nas alternativas, a
+10:4410 minutos e 44 segundosresposta vai ser alguma em que tenha multiplicação de probabilidades. Olha essa primeira. 1 25 + 1/ 25 + 1 25.
+10:5510 minutos e 55 segundosGalera, isso daqui tá somando, essa outra aqui tá somando e a gente não quer isso. Se tem ou apenas, é multiplicação.
+11:0211 minutos e 2 segundosEntão, a gente elimina A e B. Você deve até lembrar de alguma aula de combinatórias de probabilidade que você deve ter assistido, que o professor deve
+11:1011 minutos e 10 segundoster falado assim: "Ah, quando é e você multiplica, quando é ou você soma o apenas lembra do do e que tá aqui, sabe?
+11:2011 minutos e 20 segundosPorque é um princípio semelhante, tá?
+11:2211 minutos e 22 segundosEsse apenas, esse e do apenas aqui, pensa ali como se fosse o e que você vai realizar multiplicação, que vai ser
+11:2911 minutos e 29 segundosvezes, tá? Então você eliminou aqui das alternativas essas que tem soma, tá?
+11:3711 minutos e 37 segundosEntão, primeira coisa, isso daí já facilita para você que não sabe nada de combinatória. Agora vamos dar uma olhada
+11:4311 minutos e 43 segundosaqui na questão em si, tá? Nessa última frase que ela já dá uma dica importante pra gente, uma mensagem, um alfabeto de
+11:5111 minutos e 51 segundos26 letras foi codificada usando uma cifra de César. Considere a probabilidade de se descobrir aleatoriamente o padrão utilizado nessa
+12:0012 minutoscodificação e que uma tentativa frustrada deverá ser eliminada nas tentativas seguintes. Olha só,
+12:0912 minutos e 9 segundosuma tentativa frustrada deve ser eliminada nas alternativas seguintes.
+12:1412 minutos e 14 segundosGalera, vocês têm que trabalhar com as alternativas, tá? Você tem que trabalhar com as alternativas em questão de combinatória, principalmente assim, se
+12:2312 minutos e 23 segundosvocê quiser pegar a lógica do zero, vai demorar mais. É melhor você trabalhar com as alternativas. Então, vamos ver as alternativas aqui, ó. A gente tem essa
+12:3112 minutos e 31 segundosdaqui, a C, que é 1 sobre 25 x 1/ 24 x 1 23. Essa D que é 24/ 25, 23/ 25, 1 25. E essa E que é 24/ 25, 23/ 24 e 1 23.
+12:4512 minutos e 45 segundosGalera, olha o que ele falou aqui. Uma tentativa frustrada deve ser eliminada
+12:5112 minutos e 51 segundosnas tentativas seguintes. Então, a gente tem, a gente não pode fazer que nem a D, né? que a D tá considerando como se tivesse ali todas as alternativas ainda.
+13:0313 minutos e 3 segundosEntão você tira um número, quando você tira um número dali, você tira uma letra dali dessa cifra, você não pode colocar,
+13:1213 minutos e 12 segundostirar essa mesma letra de novo. Então você tinha 25, você vai ter 24. Se você errou uma, tirou de novo, você vai ter
+13:2013 minutos e 20 segundos23, entendeu? Então, 25, 25 e 25 seria se a tentativa frustrada não fosse
+13:2813 minutos e 28 segundoseliminada nas tentativas seguintes. Só que ele tá falando aqui claramente que é uma tentativa frustrada deve ser eliminada nas tentativas seguintes.
+13:3613 minutos e 36 segundosEntão, por isso não pode ser a letra D.
+13:3813 minutos e 38 segundosBeleza? Aí você fica entre a C e a D. Aí você pode te falar: "Marcos, e agora? O que que eu faço? Como que eu vou saber
+13:4513 minutos e 45 segundosaqui?" Galera, vocês acham mesmo que o acerto e o erro eles vão ter a mesma probabilidade aqui? É 1 sobre 25, 1
+13:5413 minutos e 54 segundossobre 24 e 1 sobre 23, que o acerto e o erro tem a mesma probabilidade? Claro que não. Ele tem uma chance de acertar.
+14:0214 minutos e 2 segundosAs outras chances que tem lá na caixa são dele errar. Então ele pegou aqui a chance de erro, a chance de erro e a
+14:0814 minutos e 8 segundoschance de acerto, porque ele tinha uma chance ali para conseguir acertar essa cifra. Então, resposta letra E. Outra
+14:1714 minutos e 17 segundospossibilidade que você podia pensar aqui nessa nessa nessa questão é você olhar as outras alternativas. Olha, essa
+14:2414 minutos e 24 segundosdaqui, a D é 24, 23 e 1. A E também é 24, 23 e 1, né? Olha a B, 24, 23 e 1. Aí
+14:3414 minutos e 34 segundosvocê pode falar: "Pô, não sei resolver" e tal, vamos tentar maximizar sua chance de acerto. Você vê que tem um padrão
+14:4114 minutos e 41 segundosmaior aqui para essa parte de cima. 24, 23 e 1 do que 1, um e um. Um em tudo.
+14:4914 minutos e 49 segundosEntão você já marca, você já vai naquela. Aí você vai eliminando. Só que explicando a lógica para vocês, né? É porque, pô, você não vai ter a mesma
+14:5714 minutos e 57 segundoschance de erro e acerto. Nesse caso, você tem 24 chances de erro, depois 23 chances de erro e uma chance de acerto
+15:0415 minutos e 4 segundosaí no final, certo? Que é quando você realmente acerta, quando ele acerta na terceira tentativa que ele fala aqui.
+15:1115 minutos e 11 segundosEntão, lembrou disso? Apenas você multiplica, apenas tá relacionado a vezes. Assim como o e o e quando você
+15:1915 minutos e 19 segundosfala linha de probabilidade, eu vou usar três blusas e quatro calças diferentes e quero saber as combinações. Você tá
+15:2815 minutos e 28 segundosusando o e. Então, por você usar o e, você tem uma multiplicação de probabilidades nas combinações,
+15:3515 minutos e 35 segundosentendeu? Então, tem que levar isso em consideração, certo? Outra coisa também que é muito usado nas questões de combinatório e probabilidade do Enem é o
+15:4415 minutos e 44 segundospelo menos, tá? O pelo menos, quando tem essa palavra pelo menos, vai estar
+15:5115 minutos e 51 segundosrelacionado à soma, vai estar relacionado a uma soma de probabilidades, tá? Então você tem isso
+16:0016 minutosdaqui relacionado a uma soma de probabilidades. Quando tiver a palavra pelo menos uma questão de combinatória,
+16:0716 minutos e 7 segundosnuma questão de probabilidade, vai estar relacionado à soma de probabilidades, porque pelo menos vão ser vários eventos
+16:1516 minutos e 15 segundosdiferentes, várias probabilidades de eventos diferentes que você vai ter que somar para conseguir a probabilidade total. Não vou ir explicar a lógica toda
+16:2516 minutos e 25 segundosaqui porque senão o vídeo ia ficar enorme. Mas quando tiver pelo menos você tem que pensar em soma. E falando sobre
+16:3216 minutos e 32 segundosisso, olha aí essa questãozinha, tenta resolver. Presta atenção na linguagem, na linguagem que tá nessa questão. Agora
+Capítulo 5: Probabilidade 2
+16:4016 minutos e 40 segundoseu venho com a resolução. Presta atenção. A expressão numérica que representa o número máximo de maneiras
+16:4716 minutos e 47 segundosdistintas de formar essa equipe é, não falou nada até agora, tá? Um hospital tem sete médicos cardiologista
+16:5716 minutos e 57 segundose seis médicos neurologista. Atenção aqui a esse e
+17:0317 minutos e 3 segundosem seu quadro de funcionários. Para executar determinada atividade, a direção desse hospital formará uma
+17:1017 minutos e 10 segundosequipe com cinco médicos, sendo pelo menos três cardiologistas.
+17:1617 minutos e 16 segundosPresta atenção. Tenho pelo menos aqui, tenho pelo menos vou colocar aquele verde também. Eita, que não foi. Deixa
+17:2417 minutos e 24 segundoseu colocar aqui verdinho que vai melhorar o entendimento de vocês. Pelo menos, lembra para mim, o pelo menos ele
+17:3217 minutos e 32 segundostá relacionado à soma que eu tinha falado, né? Não é multiplicação, é soma, pelo menos soma que você relaciona. O e
+17:4117 minutos e 41 segundosvai estar relacionado à multiplicação, né? Então vou colocar aqui um xizinho como se fosse, né? Então, pelo menos tá
+17:4917 minutos e 49 segundosrelacionado à soma e o e tá relacionado à multiplicação. Nesse caso aqui, o que que a gente precisava para resolver?
+17:5617 minutos e 56 segundosOlha só, olha as alternativas. Existe nas alternativas soma e multiplicação em algumas delas, né? Então, olha só, essa
+18:0518 minutos e 5 segundosdaqui, a D e a E, elas estão aí com soma, né? Com soma aqui, multiplicação,
+18:1318 minutos e 13 segundosmultiplicação aqui, né? Então, a gente já pode eliminar essas outras aqui, tá?
+18:1918 minutos e 19 segundosEntão, já elimina A, B e C. Presta atenção. O pelo menos ele tá aqui no final, tá? Ele tá falando justamente
+18:2718 minutos e 27 segundossobre as equipes. Ele tá falando sobre as equipes. Esse, pelo menos, tá falando sobre as equipes. Então, ele vai ser o
+18:3518 minutos e 35 segundosque vai ficar no lado de fora. Então, ele que vai definir o sinal que vai ficar do lado de fora, o que não está relacionado às equipes, que no caso
+18:4418 minutos e 44 segundosaqui, ó. A letra E é o que tem soma. É o que tem soma aqui do lado de fora. E esse vezes tá relacionado aos
+18:5118 minutos e 51 segundosprofissionais. Vocês podem ver aqui que ele fala sete médicos cardiologistas e seis médicos neurologistas. Olha só esse
+18:5818 minutos e 58 segundosdaqui que tá de fora. Sete, seis, porque tá falando dos sete cardiologistas e dos seis neurologistas. Sete cardiologistas,
+19:0719 minutos e 7 segundosseis neurologistas. Então esse e aqui que tá falando dos sete e dos seis, ele tá relacionado a vezes. Então é multiplicação.
+19:1619 minutos e 16 segundosOlha só, ele é multiplicação. Ele é o que vai ficar aqui dentro, porque ele tá falando justamente sobre esses termos,
+19:2319 minutos e 23 segundosesses sete médicos radiologistas e esses seis neurologistas. E esse, pelo menos, ele tá falando das equipes, tá? E aí,
+19:3119 minutos e 31 segundospor isso que ele vai ficar aqui do lado de fora, porque são diferentes formas de formar equipe. Então, tem a equipe que
+19:3819 minutos e 38 segundosvai ter três cardiologistas, tem a equipe que vai ter quatro cardiologistas e tem a equipe que vai ter cinco cardiologistas, entendeu? Então, são diferentes formas de formar a equipe.
+19:5019 minutos e 50 segundosIsso daqui seria uma equipe ali com três cardiologistas. Aqui seria o Q4 quatro, aqui seria um Q cinco. Esse pelo menos
+19:5819 minutos e 58 segundosele tá relacionado aí a pelo menos três cardiologistas. Então pode ter três cardiologistas, pode ter quatro cardiologistas, pode ter cinco
+20:0720 minutos e 7 segundoscardiologistas na equipe. Então, por isso que você tem três possibilidades de equipe diferente. Lembrando que a equipe ela precisa ter cinco médicos. Então,
+20:1520 minutos e 15 segundospor isso que o limite é cinco ali cardiologistas na equipe, porque o limite de médicos são cinco na equipe, certo? questão pouco mais difícil de
+20:2420 minutos e 24 segundosresolver, mas o que eu quero que vocês entendam é que esse e ele tá nessa parte de fora, ele vai estar relacionado a vezes. Então por isso ele fica aqui, né?
+20:3520 minutos e 35 segundosOlha o sete cardiologistas e o seis neurologistas. E esse pelo menos, ele tá relacionado à soma e ele fica do lado de
+20:4220 minutos e 42 segundosfora porque ele tá versando justamente pelas diferentes formas de formar uma equipe, certo? Então, que que eu quero
+20:5020 minutos e 50 segundosque vocês saibam? Viu o pelo menos pensa em soma em questões de combinatória. Viu o apenas? Viu apenas? Ó, vou até escrever aqui do lado. Viu apenas?
+21:0321 minutos e 3 segundosVocê pensa em multiplicação em vezes, ó.
+21:0621 minutos e 6 segundosApenas vezes pelo menos tem o O aqui, né? Relaciona com um O do soma,
+21:1421 minutos e 14 segundosentendeu? Então isso vai facilitar para você resolver questões de combinatória.
+21:1821 minutos e 18 segundosMinha ideia aqui não é te explicar combinatória desde o zero, porque é uma matéria super complexa, uma matéria que demoraria muito tempo para você pegar,
+21:2621 minutos e 26 segundosmas entender gatilho de resolução da linguagem da questão para você conseguir acertar mais, para você conseguir eliminar eliminar alternativas, você maximizar a sua chance de acerto, tá?
+21:3821 minutos e 38 segundosEntão, presta muita atenção, pega a lógica, se precisar, reassiste, que essa parte de combinatório eu diria que é o
+21:4521 minutos e 45 segundosmacete mais complicadinho assim que você tem que ter mais atenção para poder pegar. Vamos lá galera, rapidinho aqui, questão de mediana, tá? Macete que eu já
+21:5421 minutos e 54 segundosensinei algumas vezes aqui no canal, mas que pode te economizar um tempo, principalmente se for uma questão grande. Essa aqui eu peguei uma questão
+Capítulo 6: Mediana
+22:0222 minutos e 2 segundospequena, só para vocês entenderem o princípio, como é que funciona, que que é mediana, né? Se você não sabe o que que é mediana, mediana seria você pegar
+22:0922 minutos e 9 segundoso termo central de um certo conjunto de números que ele vai te entregar. Como que você faria para pegar o termo central? Você calcularia a média? Não,
+22:1822 minutos e 18 segundosvocê não calcularia a média. você pegaria esses números que ele te deu, colocaria em ordem crescente e o número
+22:2522 minutos e 25 segundosque tivesse no meio ali, o termo que tivesse central desse conjunto, ele seria mediano. Se fosse um um uma
+22:3322 minutos e 33 segundosquantidade par de números, seriam dois números centrais. Então, a mediana seria a média desses dois números centrais. Só
+22:4122 minutos e 41 segundosque eu fiz um método que ele é muito mais rápido para você fazer mediana e que dá no mesmo, sabe? sempre dá certo.
+22:4722 minutos e 47 segundosSempre dá certo esse método, tá? Quando você precisa calcular a mediana ali de termos exatos. Olha só, presta atenção.
+22:5522 minutos e 55 segundosQue que você vai fazer? Você vai cortar o menor e o maior número em sequência até sobrar apenas os dois números do
+23:0423 minutos e 4 segundosconjunto, os dois números centrais. Como assim, Marcos? Olha só, qual que é o maior número que a gente tem aqui. Qual que é o maior número? Fala para mim.
+23:1223 minutos e 12 segundosMaior número é o 66, certo? Então vou cortar o 66. Qual que é o menor número?
+23:1823 minutos e 18 segundos46. Corto 46. Qual que é o maior número que restou? É o 64. Então vou cortar o
+23:2523 minutos e 25 segundos64. Qual que é o menor número que que restou? É o 54. Então cortei o 54. Que
+23:3123 minutos e 31 segundosque sobrou? 60 e 64. Então esses são os termos do meio, tá? Eu fui cortando do
+23:3823 minutos e 38 segundosmaior pro menor. E aí com isso eu cortando o maior, do maior pro menor, o que vai ocorrer é que vai sobrar exatamente o termo do meio, tá? Sem eu
+23:4723 minutos e 47 segundoster que colocar em ordem crescente os números. Então sobrou o 60 e o 64. Qual que vai ser a mediana? Vai ser a média
+23:5423 minutos e 54 segundosdeles. Então você teria que calcular 60 + 64/ 2, né? Mas dá para fazer isso de cabeça. O que que tá no meio entre 60 e
+24:0224 minutos e 2 segundos64? É o 62, tá? Então, mediana, se você pegar 60 + 64 di por 2, isso daqui vai
+24:0924 minutos e 9 segundosdar 62, certo? Então, resposta é 62, letra E. Essa é a mediana, certo? Então,
+24:1724 minutos e 17 segundosassim, eu acho muito mais simples, muito mais rápido para você resolver dessa forma mediana, principalmente quando você tem muitos números para fazer.
+24:2524 minutos e 25 segundosQuando tem poucos números, até dá para colocar em ordem crescente, mas não faz diferença, sabe? Esse método que eu ensinei, ele funciona aí pras questões de mediana. Quando você tem que calcular uma mediana simples, sempre funciona.
+24:3524 minutos e 35 segundosAgora, próxima questão, galera. Essa daqui é uma questão de função de primeiro grau. Todo ano cai na prova,
+Capítulo 7: Função do 1º Grau
+24:4224 minutos e 42 segundosmuita gente se enrola nesse tipo de questão e ele é muito tranquilo, é muito fácil, é mais fácil do que vocês imaginam. Olha só, tentou resolver, eu
+24:5124 minutos e 51 segundosvenho agora mostrando o macete para vocês. Basicamente ele quer saber aqui qual que é o custo pra produção de 80 mochilas, tá? Então, quanto custa
+25:0025 minutosproduzir 80 mochilas? E ele te dá aqui um um uma quantidade de quanto que é para produzir 30, quanto que é para
+25:0725 minutos e 7 segundosproduzir 50, quanto que é para produzir 100. O que que você vai fazer aqui, galera? Você vai ver quanto que aumentou
+25:1425 minutos e 14 segundosde 30 para 50. 30 para 50 você aumentou 20 mochilas, né? E quanto que o custo
+25:2125 minutos e 21 segundosaumentou de eh 150 para 1650? Quanto que aumentou aí de cabeça? Mais 600. Então, fazer 20 mochilas é o eh custou R$ 600.
+25:3325 minutos e 33 segundosEntão, 20 mochilas custou mais R$ 600.
+25:3925 minutos e 39 segundosCerto, galera? Ele quer saber quanto que é de 80 mochilas. De 80 mochilas. Você concorda comigo que ele fala aqui que é
+25:4825 minutos e 48 segundoso custo é linear, né? Então o custo cresce de forma linear. Então ele diz pra gente que é uma função. Você concorda comigo que pra gente saber de
+25:5625 minutos e 56 segundos80 seria só a gente pegar esse 100 aqui, ele dá que 100 é 3150. É só a gente pegar esse 100, né, esse 3150
+26:0526 minutos e 5 segundose a gente subtrair 600. Olha só, por quê? Por que subtrair 600? Porque quando a gente faz isso, a gente também tá
+26:1326 minutos e 13 segundossubtraindo 20 mochilas, né? Então se o custo para produzir, presta atenção, se o custo para produzir 20 mochilas é R$
+26:2026 minutos e 20 segundos600, né? E o custo para produzir 100 mochilas é 3150. É só a gente subtrair o
+26:2726 minutos e 27 segundoscusto de produzir 20 mochilas pro custo de produzir 100, que aí a gente vai encontrar o custo para produzir 80 mochilas, entendeu? Então a gente pega
+26:3626 minutos e 36 segundosesse custo de 20, subtrai do custo de 100 e com isso a gente encontra o custo de 80 mochilas. Então a gente vai pegar
+26:4326 minutos e 43 segundos3150 - 600 e aí você vai ter 2550 como resposta. Como que eu fiz essa conta de
+26:5026 minutos e 50 segundoscabeça? Ó, subtraí 100 do 3150, ficou 3050, eu tenho - 500 aqui. Então 3050 -
+26:5826 minutos e 58 segundos50050, entendeu? Então eu vou fazendo por partes ali a subtração, porque aí facilita para mim eu consigo fazer de cabeça sem ter que armar a conta, certo?
+27:0927 minutos e 9 segundosEntão eu cheguei em 2550, que é o custo para produzir 80 mochilas. Resposta letra C. Ah, Marcos, mas e se eu
+27:1627 minutos e 16 segundosquisesse fazer de outra forma, outra forma possível, tá? para você pensar, olha só, o custo para produzir 20
+27:2427 minutos e 24 segundosmochilas é 600. Você concorda comigo que se eu dividir por dois aqui a gente vai ter o custo para produzir 10 mochilas como sendo 300, né? Porque 20/ 2 é 10.
+27:3627 minutos e 36 segundosEh, 600/ 2 é 300. Então, o que que a gente poderia fazer também? A gente poderia pegar esse 300,
+27:4427 minutos e 44 segundosmultiplicar por 3. Então 300 x 3, que vai dar 900, que aí vai ser o custo para
+27:5027 minutos e 50 segundosproduzir eh 30 mochilas. Vai ser o custo para produzir 30 mochilas, porque eu tô multiplicando por três. Se o custo para
+27:5727 minutos e 57 segundos10 é 300, o custo para 30 vai ser 900. E aí eu pego esse custo para produzir 30 e eu posso adicionar aqui no custo de 50.
+28:0828 minutos e 8 segundosAí eu coloco 900 900 + 1650, né? Então somo aí esse custo para produzir 30
+28:1628 minutos e 16 segundosmochilas com custo para produzir 50, porque eu vou ter o custo então para produzir 80. 1650 + 900 2550. Dá a mesma coisa. Mesma coisa do que a gente viu.
+28:2628 minutos e 26 segundosSó que esse caminho que eu mostrei primeiro é mais rápido, mais fácil, sabe? Tem que fazer menos conta. Então resposta 2550. Galera, a próxima
+28:3428 minutos e 34 segundosquestão, questão de projeção ortogonal, tá? todo ano cai na prova, então pausa, tenta resolver, tá aí as alternativas
+Capítulo 8: Projeção Ortogonal
+28:4328 minutos e 43 segundosque agora eu venho com a resolução, vai ter na sua prova, muito provavelmente, tá? Que que a gente precisa saber desse
+28:5028 minutos e 50 segundostipo de questão, né? Ele geralmente vai dar alguma instrução pra gente sobre deslocamento. E aí a gente vai ter que descobrir qual que foi a sombra que foi feita no chão aí com esse deslocamento.
+29:0229 minutos e 2 segundosGeralmente as questões de projeção ortogonal elas são assim. Como que eu faço para facilitar a minha resolução, a
+29:0929 minutos e 9 segundosminha visão espacial em projeção ortogonal? Tem uma visão espacial péssima, tá? Como que eu faço para facilitar? Eu imagino uma formiguinha
+29:1929 minutos e 19 segundosfazendo xixi. Então, no deslocamento que eles estão colocando aqui, eles colocaram um deslocamento aqui, eu imagino essa formiguinha ela andando por
+29:2729 minutos e 27 segundosessa pirâmide fazendo xixi. E aí o xixi da formiguinha, ele vai cair aqui no chão, né? Então, com isso, eu imaginando
+29:3729 minutos e 37 segundosdessa forma, eu consigo visualizar melhor espacialmente como que vai ser a sombra, como que vai ser a projeção
+29:4529 minutos e 45 segundosortogonal desse trajeto que ele for mandar. Vamos ver na prática como que isso funciona. O deslocamento descrito por João foi: "Mova-se pela pirâmide,
+29:5429 minutos e 54 segundossempre em linha reta, do ponto A ao ponto E". Então, olha só, vamos imaginar, tem uma formiguinha aqui, ela tá andando, andando, andando, andando,
+30:0330 minutos e 3 segundosandando. Chegou no ponto E. Imagina agora que ela tá fazendo xixi o tempo todo, ó. Tá fazendo xixi aqui. Tá
+30:1030 minutos e 10 segundosfazendo xixi. Fazendo xixi. Fazendo xixi. Fazendo xixi. Olha só. Bem no meio. Bem no meio.
+30:2030 minutos e 20 segundosEntão, ela fez fez esse deslocamento, né?
+30:2630 minutos e 26 segundostá bem no meio, bem no meio da pirâmide que ela parou, fez esse deslocamento xixi da formiguinha, tá certo? Depois
+30:3430 minutos e 34 segundosele foi do ponto E ao ponto M. Então ele foi daqui até aqui, beleza? Foi do ponto E ao ponto M. Deixa eu fazer outra cor aqui.
+30:4630 minutos e 46 segundosVou colocar o verde. Então ela tá passando também aqui. Tá passando aqui, ó. Passando aqui, passando aqui,
+30:5630 minutos e 56 segundospassando aqui, passando aqui, passando aqui. Então, fez mais ou menos isso daqui, né? Então, a formuia fez mais ou
+31:0431 minutos e 4 segundosmenos isso daqui e depois ela foi do M ao C. Deixa eu colocar outra cor aqui.
+31:1031 minutos e 10 segundosAí ela fez isso, fez do M ao C. Vamos escrever do M ao C.
+31:1831 minutos e 18 segundosEntão, qual que foi a trajetória que a formiguinha fez? Ó, a até o E seria essa
+31:2631 minutos e 26 segundosa sombra. E até o M e M até o C. Então, seria mais ou menos isso, a trajetória, o xixi da formiguinha aí nesse chão da pirâmide.
+31:3831 minutos e 38 segundosVamos ver se tem alguma opção que fale isso, né?
+31:4231 minutos e 42 segundosOlha só as opções que a gente tem. numa ela anda em linha reta, ela não vai no meio direto. Não, essa daqui não pode
+31:4831 minutos e 48 segundosser. Outra, ela tá meio que fazendo um trajeto contínuo, então como se ela tivesse fazendo assim. Cara, essa daqui também não pode ser.
+32:0032 minutosEssa daqui ela não foi no meio da pirâmide, pô. A ponta, o e ele fica bem no meio da pirâmide, então não pode ser
+32:0832 minutos e 8 segundosessa daqui também, porque ela não tá como se tivesse no meio. Essa outra aqui, cara, essa D, ela até parece ali
+32:1732 minutos e 17 segundosum pouco a trajetória que a gente fez, só que nesse caso, ela foi de D para C, que ela não foi de D para C, ela ela ficou entre o ponto B e C aqui, ó, ela
+32:2632 minutos e 26 segundosficou entre o ponto B e C e não entre D e C. E nesse caso parece que ela parou em D e C, então não pode ser essa. Então
+32:3432 minutos e 34 segundosresposta, olha só, letra essa daqui faz exatamente, ela foi, parou entre B e C e aí ela seguiu. Então galera,
+32:4332 minutos e 43 segundosquestãozinha assim, sempre imagina que tem uma uma formiguinha, um bichinho fazendo xixi, sabe? Para facilitar a sua
+32:5132 minutos e 51 segundosvisão espacial. Era assim que eu fazia na prova. E desde que eu comecei a aplicar essa técnica, eu parei de errar projeção ortogonal, que eu sempre errava
+32:5932 minutos e 59 segundosantigamente, sabe? Então eu recomendo fortemente que vocês tentem usar, tentem imaginar. Se tiver muito difícil, às
+33:0733 minutos e 7 segundosvezes tenta planificar, sabe? São questões que muita gente acerta, então não é bom você errar esse tipo de
+33:1433 minutos e 14 segundosquestão, tá? Presta bastante atenção quando for resolver. Vamos lá, galera.
+33:1833 minutos e 18 segundosEssa daqui é o modelo de questão que tem caído todo ano na prova de matemática.
+Capítulo 9: Análise Dimensional
+33:2333 minutos e 23 segundosQuestão de análise dimensional, questão simples que você não pode errar. O que que você precisa saber para resolver esse tipo de questão? Olha só, a grande
+33:3233 minutos e 32 segundossacada é você lembrar que diretamente proporcional, diretamente
+33:3933 minutos e 39 segundosproporcional é sempre aquilo que vai ficar em cima na fração. E inversamente,
+33:4733 minutos e 47 segundosinversamente é o que vai ficar embaixo, tá? Então é o que vai ficar embaixo na sua fração.
+33:5533 minutos e 55 segundosVamos ler aqui a questão, ó. A expressão que representa a unidade de medida para a grandeza, potência radiante por
+34:0234 minutos e 2 segundosunidade diária é em radiometria, a potência radiante emitida por uma fonte de radiação é diretamente proporcional à
+34:1034 minutos e 10 segundosquantidade de energia em Ja. Olha só, já temos a nossa primeira Jule vai ser diretamente proporcional,
+34:1834 minutos e 18 segundosã, tá? eh, e inversamente proporcional ao intervalo de tempo em segundo. Então, já temos aí a nossa que é inversamente
+34:2634 minutos e 26 segundosproporcional, diretamente proporcional que fique em cima na fração, inversamente proporcional que fique embaixo que a fonte necessita para emitir essa
+34:3534 minutos e 35 segundosenergia. Por meio de sensores adequados localizados em diferentes distâncias da fonte, medidos em metro, é possível medir a potência radiante por unidade
+34:4434 minutos e 44 segundosdiária que chega àquela posição. A expressão que representa a unidade de medida de potência radiante por unidade de área
+34:5334 minutos e 53 segundosolha só o que que tá faltando aqui. A unidade de área, galera. Unidade de área é metro. Quando você quer calcular a área, quando fala a área do de um
+35:0235 minutos e 2 segundosterreno, fala assim: "Ah, esse terreno tem 300 m." Não, galera, esse esse terreno tem 300 m², sabe? Sempre que for área é met².
+35:1435 minutos e 14 segundosSempre que for medida linear assim reta e quero cercar alguma coisa e tal, é metro normal, entendeu? Então, sempre
+35:2335 minutos e 23 segundosque for medida ali, eh, diária, vai ser medida quadrática. Então, met², km²,
+35:3035 minutos e 30 segundoscm², entendeu? Então a quadrado. E se for volume, se for volume é a cubo,
+35:3735 minutos e 37 segundosentão m cbôm cic, sabe? Falou área, falou área na questão, tem que pensar em
+35:4435 minutos e 44 segundosmet quad, em quilôm qu em unidades quadráticas, tá? Então, nesse caso aqui, como ele tá falando de área, o que vai
+35:5135 minutos e 51 segundosficar embaixo também vai ser o metro quadrado, tá? Ah, Marcos, e por que que ele vai ficar embaixo? Porque é por
+35:5835 minutos e 58 segundosunidade área. Quando a gente tem esse por aqui, significa que é uma divisão, tá? Esse bor significa divisão.
+36:0836 minutos e 8 segundosEntão a gente coloca embaixo sempre que fala por, a potência radiante a gente tem que é o jalho por segundo. O met²
+36:1636 minutos e 16 segundosele vai entrar embaixo, já que ele é uma divisão. Então vai ficar Jule por m² x segundo. Tem essa resposta aí. Olha só.
+36:2636 minutos e 26 segundosJa por segundo met². Resposta letra e.
+36:3036 minutos e 30 segundosTá? E tinha vários extratores aqui. Já por segundo vezes m². Se é por met² nunca vai ser vezes, vai ser divisão.
+36:3836 minutos e 38 segundosLembra disso, tá? Diretamente fica em cima, inversamente fica embaixo por
+36:4436 minutos e 44 segundosdivisão, tá? Área met², volume m côm c distâncias lineares met quilômetro.
+36:5336 minutos e 53 segundosNão precisa elevar a nada. Lembra disso pra prova? Vamos lá, galera. Essa questão aqui, pausa, tenta resolver, tá?
+Capítulo 10: Lógica e Bom Senso
+37:0037 minutosTentou resolver, eu venho agora com macete, com a técnica de resolução.
+37:0437 minutos e 4 segundosGalera, nessa questão aqui, a gente tem uma caneca, né, que seria um tronco de cone, tá? Então, o formato geométrico dessa caneca é o tronco de cone. E ele
+37:1337 minutos e 13 segundospara, pede pra gente calcular a capacidade volumétrica dessa caneca.
+37:1737 minutos e 17 segundosEntão, calcular o volume aqui dessa caneca, desse tronco de cone. Só que muita gente não sabe a fórmula do tronco
+37:2437 minutos e 24 segundosde cone de cor porque não é algo muito usado, sabe? É bom levar pro Enem, mas não é algo muito usado. Então, o que que
+37:3237 minutos e 32 segundosvocê precisaria saber para resolver essa questão? Que é a lógica, que é o pulo do gato que eu quero que você tenha para outras questões, tá? é você utilizar do
+37:4037 minutos e 40 segundosseu raciocínio, você utilizar da lógica para resolver realmente a questão. Olha só, nessa questão aqui ele fala que a
+37:4837 minutos e 48 segundosaltura é de 12, ele fala que o diâmetro maior é de 10 e ele fala que o diâmetro
+37:5437 minutos e 54 segundosmenor é de 8, tá? Então tudo isso ele deixou claro aqui nesse textinho, tá? Aí o que que a gente vai fazer, cara?
+38:0238 minutos e 2 segundosDigamos que eu não sei a fórmula do tronco de cone lá. Que que eu posso fazer para conseguir resolver essa questão? Eu posso calcular a área de um
+38:1038 minutos e 10 segundoscilindro. Então, digamos que eu faço um prolongamento aqui, tá? Um prolongamento da altura com essa base menor.
+38:2038 minutos e 20 segundosE eu faço meio que um cilindro circunscrito. Não sou muito bom no desenho, né, galera, mas eu faço meio que um cilindro circunscrito. Aqui que
+38:2938 minutos e 29 segundoseu vou ter com esse cilindro que ele tá circunscrito? Eu vou ter o valor do volume dele e o volume dele já vai
+38:3638 minutos e 36 segundosrepresentar boa parte aí do valor do volume total da caneca, né? Então eu já vou ter uma ideia mais ou menos de
+38:4438 minutos e 44 segundosquanto que pode ser o valor desse volume da caneca, porque não é muito diferente também aqui o o eh o diâmetro da do
+38:5238 minutos e 52 segundosmaior pro menor, né? Então uma diferença só de dois. Então vamos calcular o volume aqui desse cilindro que tá sempre com escrito. Cara, o cilindro que tá
+39:0139 minutos e 1 segundoescrito no no tronco de cone, você precisa saber a fórmula do cilindro para calcular volume de cilindro. Como que a gente calcula volume de cilindro? Área
+39:1039 minutos e 10 segundosda base vezes altura. Qual que é a área da base aí? É pi r quad porque é um círculo. Essa é a fórmula de área da
+39:1739 minutos e 17 segundosbase de um círculo. Altura. A altura aí é 12. Então, qual que é o raio? O raio é 8. Não, oito é o diâmetro. O raio é
+39:2739 minutos e 27 segundosquatro. Raio é metade do diâmetro. Raio é isso daqui, ó. É essa metade aqui, entendeu? Então, metade metade do
+39:3539 minutos e 35 segundosdiâmetro é o raio. Então, a gente vai pegar pi x 4² x altura que é 12. Isso daqui vai dar pi x 16 x 12, certo?
+39:4739 minutos e 47 segundos16 x 12. Como que você pode fazer esse cálculo de cabeça? Ó, 16 x 10 + 2. Eu
+39:5539 minutos e 55 segundossempre faço isso. Você pode transformar esse 12 em 10 + 2. E aí, cara, olha só o que que você faz. Você faz chuveirinho
+40:0240 minutos e 2 segundosdistributiva 16 x 10 e 16 x 2. 16 x 10
+40:0740 minutos e 7 segundos160. 16 x 2 32. Aí fica pi x 160
+40:1540 minutos e 15 segundos+ 32, que no caso vai dar pi x 192. Tô fazendo aqui escrevendo para ficar mais
+40:2340 minutos e 23 segundosclaro para vocês, mas eu faço isso de cabeça lá na hora. 16 x 12, eu já faço na cabeça. 16 x 10 160. 16 x 2= 32. 160 + 32, 192. Já faço isso de cabeça, sabe?
+40:3540 minutos e 35 segundosEntão, dá para você fazer esse cálculo mental. Aí o pi ele diz que é 3, né? 3 x
+40:4140 minutos e 41 segundos19. Isso daqui vai dar eh vai dar 192 x
+40:4740 minutos e 47 segundos3. 6 aqui e 27 5,
+40:5440 minutos e 54 segundosné? Então vai dar 576 aqui. Beleza? 576
+41:0041 minutosseria esse volume aqui, ó. Esse volume aqui seria 576.
+41:0841 minutos e 8 segundosQue que faltou?
+41:1041 minutos e 10 segundosFaltou esse pedacinho aqui. Esse pedacinho aqui a gente não descobriu, né?
+41:1541 minutos e 15 segundosEsse pedacinho aqui foi o que faltou, mas a gente descobriu o boa parte do volume aí desse tronco de
+41:2341 minutos e 23 segundoscone. Então a gente já consegue eliminar a A e a B. E galera, aqui cabe um pouco de bom senso também. Olha só a diferença
+41:3341 minutos e 33 segundospro do 576, né? Olha a diferença do 576 para as alternativas D e E. Uma
+41:4041 minutos e 40 segundosdiferença muito grande. E além disso, vocês já viram caneca de 2 L, de 2196 ml, mais de 2 L, 2928 ml, quase 3 L.
+41:5341 minutos e 53 segundosVocês já viram caneca desse tamanho? E nem é dia a dia, vai do seu bom senso também. Daria para você eliminar por bom
+42:0042 minutossenso aí também, sabe? E aí, resposta. O que tá mais próximo é o 732. Outra coisa que dava para fazer, galera, para você
+42:0842 minutos e 8 segundoschegar mais perto da resposta ainda, dava para você calcular o volume, você fazer esse cilindro maior aqui, tá? Que
+42:1642 minutos e 16 segundosaí seria um volume maior do que o tronco de cone, tá? Porque olha só, ele é maiorzinho, né? ele tá, ele eh
+42:2442 minutos e 24 segundosultrapassa aqui essa lateral do tronco de cone e aí com isso fica maior. Então dava para você calcular o volume desse cilindro maior, da mesma forma como eu
+42:3242 minutos e 32 segundoscalculei o menor. E aí você saberia o limite, você saberia que eh que o volume
+42:4042 minutos e 40 segundosdesse tronco ele não seria ele não seria maior do que esse volume do do cilindro maior que você calcularia. E aí com
+42:4842 minutos e 48 segundosisso, com esses dois dados do cilindro menor e do cilindro maior, você conseguia matar a questão, porque se eu não me engano isso daqui, né, você
+42:5542 minutos e 55 segundospegando e calculando desse cilindro maior, daria algo em torno de 950. Então
+43:0243 minutos e 2 segundoso que fica entre 576 e 950 é o 732, que é a resposta dessa questão, tá? Mas vai
+43:0943 minutos e 9 segundostambém de você usar o bom senso ali na hora, sabe? Caneca de 2 L, caneca de 3 L, meio estranho, sabe? Então você ter
+43:1743 minutos e 17 segundosessa capacidade imaginativa também nas questões de de geometria facilita demais você usar sua lógica, seu raciocínio
+43:2543 minutos e 25 segundosquando você não sabe resolver exatamente aquela questão. Vale a pena, galera.
+43:2943 minutos e 29 segundosEntão, galera, esse foi o vídeo. Se te ajudou, não esquece de deixar o seu like e o seu comentário, que isso me ajuda muito também. E se você tá visando a
+Capítulo 11: Recados Finais Importantes
+43:3743 minutos e 37 segundospreparação para o Enem de 2027, vem aí a Black Friday do protocolo. O melhor preço do ano, acesso vitalício e segura
+43:4543 minutos e 45 segundosaprovação. Tudo que você precisa para ter uma preparação de autodempenho e garantir a sua aprovação de forma
+43:5243 minutos e 52 segundosacelerada. A gente abre as vagas um dia depois do Enem, então vai ter vários prêmios aí também na nossa live que vai ser no dia 11, nessa quarta vai ter
+44:0144 minutos e 1 segundosorteio de iPad, a gente vai entregar as listas de pré-teste. Então não deixa de participar, de estar ao vivo comigo na quarta, 7 horas da noite, que a gente
+44:1044 minutos e 10 segundosvai falar também todas as novidades da plataforma. No mais, é isso, tamo junto e excelente prova, excelente preparação aí nesses dias finais até o segundo dia.
+
+link do vídeo https://www.youtube.com/watch?v=H9TMR7tXItI

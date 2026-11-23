@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Guia ENEM 2027 — Meu Plano de Estudos</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-badge">ENEM 2027</span>
+        <div>
+          <h1>Guia de Estudos</h1>
+          <p class="subtitle">Do alicerce à prova, no seu ritmo</p>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <span class="db-status-pill" id="db-status-pill">Conectando...</span>
+        <div class="countdown-pill" id="countdown-pill">Calculando...</div>
+        <button class="btn btn-secondary" id="btn-export" title="Baixar cópia de segurança (JSON)">Exportar Backup</button>
+        <label class="btn btn-secondary file-label" title="Restaurar cópia de segurança (JSON)">
+          Importar
+          <input type="file" id="input-import" accept=".json" hidden />
+        </label>
+      </div>
+    </header>
+
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-tab="dashboard">Visão Geral</button>
+      <button class="tab" data-tab="schedule">Grade Semanal</button>
+      <button class="tab" data-tab="topics">Mapa de Conteúdos</button>
+      <button class="tab" data-tab="essays">Redações</button>
+      <button class="tab" data-tab="errors">Caderno de Erros</button>
+      <button class="tab" data-tab="questions">Banco de Questões</button>
+    </nav>
+
+    <main class="content">
+      <!-- ABA 1: VISÃO GERAL -->
+      <section id="tab-dashboard" class="tab-panel active">
+        <div class="grid-3">
+          <div class="card stat-card">
+            <span class="stat-label">Ciclo Atual</span>
+            <select id="current-cycle-select" class="cycle-select"></select>
+            <p class="stat-hint" id="cycle-period-hint"></p>
+          </div>
+
+          <div class="card stat-card">
+            <span class="stat-label">Progresso Geral do Edital</span>
+            <div class="stat-value" id="overall-progress-text">0%</div>
+            <div class="progress-bar"><div class="progress-fill" id="overall-progress-fill"></div></div>
+            <p class="stat-hint" id="overall-counts-hint">0 de 0 tópicos concluídos</p>
+          </div>
+
+          <div class="card stat-card">
+            <span class="stat-label">Horas Estudadas (Total)</span>
+            <div class="stat-value" id="total-hours-text">0h 00m</div>
+            <p class="stat-hint" id="streak-hint">Marque dias na Grade Semanal para somar</p>
+          </div>
+        </div>
+
+        <div class="card focus-banner" id="cycle-focus-banner"></div>
+
+        <div class="grid-2">
+          <div class="card">
+            <h2>Progresso por Área</h2>
+            <div id="area-progress-list" class="area-progress-list"></div>
+          </div>
+
+          <div class="card">
+            <div class="card-header-row">
+              <h2>Foco da Semana</h2>
+              <button class="btn-link" data-goto="schedule">Editar grade &rarr;</button>
+            </div>
+            <div id="dashboard-week-preview" class="mini-schedule"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ABA 2: GRADE SEMANAL -->
+      <section id="tab-schedule" class="tab-panel">
+        <div class="card">
+          <div class="card-header-row">
+            <div>
+              <h2>Grade Semanal Realista</h2>
+              <p class="muted">Marque as sessões concluídas nesta semana. Clique em "Editar" para ajustar matérias e tempos ao seu dia a dia.</p>
+            </div>
+            <div class="row-actions">
+              <button class="btn btn-secondary" id="btn-reset-week">Nova Semana (Desmarcar)</button>
+            </div>
+          </div>
+
+          <div id="schedule-list" class="schedule-grid"></div>
+        </div>
+      </section>
+
+      <!-- ABA 3: MAPA DE CONTEÚDOS -->
+      <section id="tab-topics" class="tab-panel">
+        <div class="card">
+          <div class="filters-bar">
+            <div class="filter-group">
+              <label for="filter-cycle">Ciclo</label>
+              <select id="filter-cycle">
+                <option value="all">Todos os ciclos</option>
+              </select>
+            </div>
+            <div class="filter-group">
+              <label for="filter-area">Área</label>
+              <select id="filter-area">
+                <option value="all">Todas as áreas</option>
+              </select>
+            </div>
+            <div class="filter-group">
+              <label for="filter-status">Status</label>
+              <select id="filter-status">
+                <option value="all">Todos</option>
+                <option value="todo">A fazer</option>
+                <option value="doing">Estudando</option>
+                <option value="done">Concluído</option>
+              </select>
+            </div>
+            <div class="filter-group grow">
+              <label for="filter-search">Buscar</label>
+              <input type="text" id="filter-search" placeholder="Ex: frações, ecologia, Vargas..." />
+            </div>
+          </div>
+
+          <div id="topics-list" class="topics-list"></div>
+        </div>
+      </section>
+
+      <!-- ABA 4: REDAÇÕES -->
+      <section id="tab-essays" class="tab-panel">
+        <div class="grid-2-sidebar">
+          <div class="card">
+            <h2>Registrar Redação</h2>
+            <form id="essay-form" class="stack-form">
+              <label>
+                Tema da Redação
+                <input type="text" id="essay-theme" required placeholder="Ex: Desafios da educação digital no Brasil" />
+              </label>
+              <label>
+                Etapa praticada
+                <select id="essay-stage">
+                  <option value="Esqueleto / Planejamento">Esqueleto / Planejamento</option>
+                  <option value="Só Introdução + Tese">Só Introdução + Tese</option>
+                  <option value="Rascunho Completo">Rascunho Completo</option>
+                  <option value="Versão Final Revisada">Versão Final Revisada</option>
+                </select>
+              </label>
+              <label>
+                Data
+                <input type="date" id="essay-date" required />
+              </label>
+              <label>
+                Autoavaliação / Observações (o que melhorar)
+                <textarea id="essay-notes" rows="3" placeholder="Ex: Consegui fazer a tese, mas faltou detalhar o agente na conclusão."></textarea>
+              </label>
+              <button type="submit" class="btn btn-primary">Salvar Redação</button>
+            </form>
+          </div>
+
+          <div class="card">
+            <h2>Histórico de Redações</h2>
+            <div id="essays-list" class="records-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ABA 5: CADERNO DE ERROS -->
+      <section id="tab-errors" class="tab-panel">
+        <div class="grid-2-sidebar">
+          <div class="card">
+            <h2>Anotar no Caderno de Erros</h2>
+            <p class="muted small">Transforme cada erro em diagnóstico, sem culpa.</p>
+            <form id="error-form" class="stack-form">
+              <label>
+                Área
+                <select id="error-area">
+                  <option value="Matemática">Matemática</option>
+                  <option value="Linguagens / Redação">Linguagens / Redação</option>
+                  <option value="Ciências Humanas">Ciências Humanas</option>
+                  <option value="Ciências da Natureza">Ciências da Natureza</option>
+                </select>
+              </label>
+              <label>
+                Assunto / Questão
+                <input type="text" id="error-topic" required placeholder="Ex: Regra de três inversa (ENEM 2022)" />
+              </label>
+              <label>
+                Tipo de erro
+                <select id="error-type">
+                  <option value="Interpretação do enunciado">Interpretação do enunciado</option>
+                  <option value="Erro de conta / atenção">Erro de conta / atenção</option>
+                  <option value="Faltou o conceito base">Faltou o conceito base</option>
+                  <option value="Tempo / cansaço">Tempo / cansaço</option>
+                </select>
+              </label>
+              <label>
+                O que aprendi para não repetir
+                <textarea id="error-lesson" rows="3" required placeholder="Ex: Conferir se as grandezas são inversamente proporcionais antes de multiplicar cruzado."></textarea>
+              </label>
+              <button type="submit" class="btn btn-primary">Registrar Erro</button>
+            </form>
+          </div>
+
+          <div class="card">
+            <h2>Meus Diagnósticos</h2>
+            <div id="errors-list" class="records-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ABA 6: BANCO DE QUESTÕES (MYSQL) -->
+      <section id="tab-questions" class="tab-panel">
+        <div class="card">
+          <div class="card-header-row">
+            <div>
+              <h2>Base de Conhecimento ENEM (2014–2023)</h2>
+              <p class="muted">Consulte questões oficiais salvas no seu MySQL local, responda na hora e envie erros direto para o Caderno de Erros.</p>
+            </div>
+            <span class="badge" id="q-total-badge">Carregando...</span>
+          </div>
+
+          <div class="filters-bar">
+            <div class="filter-group">
+              <label for="q-filter-year">Ano</label>
+              <select id="q-filter-year">
+                <option value="">Todos os anos</option>
+              </select>
+            </div>
+            <div class="filter-group">
+              <label for="q-filter-discipline">Área / Disciplina</label>
+              <select id="q-filter-discipline">
+                <option value="">Todas</option>
+                <option value="linguagens">Linguagens</option>
+                <option value="ciencias-humanas">Ciências Humanas</option>
+                <option value="ciencias-natureza">Ciências da Natureza</option>
+                <option value="matematica">Matemática</option>
+              </select>
+            </div>
+            <div class="filter-group">
+              <label for="q-filter-language">Idioma</label>
+              <select id="q-filter-language">
+                <option value="">Todos</option>
+                <option value="ingles">Inglês</option>
+                <option value="espanhol">Espanhol</option>
+              </select>
+            </div>
+            <div class="filter-group grow">
+              <label for="q-filter-search">Buscar no enunciado</label>
+              <input type="text" id="q-filter-search" placeholder="Ex: função, Vargas, célula, água..." />
+            </div>
+          </div>
+
+          <div class="questions-layout">
+            <div class="questions-list-col">
+              <div id="questions-list" class="questions-list"></div>
+              <div class="pagination-bar">
+                <button class="btn btn-secondary" id="q-prev-page" disabled>Anterior</button>
+                <span class="muted small" id="q-page-info">Página 1</span>
+                <button class="btn btn-secondary" id="q-next-page" disabled>Próxima</button>
+              </div>
+            </div>
+
+            <div class="question-detail-col" id="question-detail">
+              <div class="empty-state">Selecione uma questão ao lado para visualizar o enunciado completo e responder.</div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
